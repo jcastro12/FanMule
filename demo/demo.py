@@ -2,7 +2,7 @@ import json
 import accurating
 
 matches = list()
-with open('output.txt', 'r') as f:
+with open('games.txt', 'r') as f:
     for line in f:
         line = line.strip().split(':')
         matches.append(((line[0], int(line[1])), (line[2], int(line[3]))))
