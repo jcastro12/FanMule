@@ -1,0 +1,2010 @@
+Oglethorpe:11:Shorter:10
+Berry:6:Salisbury:20
+Centenary (LA):3:Hendrix:22
+Oglethorpe:3:Piedmont:24
+Piedmont:2:Birmingham-So.:19
+LaGrange:13:Hendrix:20
+Centre:21:Hanover:4
+Cornell College:12:Centenary (LA):8
+Roanoke:10:Salisbury:18
+Albright:11:FDU-Florham:12
+Neumann:8:Drew:14
+Mary Washington:20:Randolph-Macon:14
+Ferrum:1:Lynchburg:22
+St. Mary's (MD):21:Southern Va.:9
+Warren Wilson:0:Randolph:15
+Sewanee:9:Transylvania:5
+Guilford:15:Greensboro:8
+Huntingdon:8:Birmingham-So.:21
+Transylvania:6:Centre:14
+Wheaton (MA):21:Anna Maria:7
+Catholic:15:Mary Washington:13
+Stevens:25:Drew:4
+Anderson (IN):9:Wabash:16
+LaGrange:5:Berry:19
+Susquehanna:21:Wilkes:6
+SUNY Maritime:11:WestConn:12
+Brevard:7:Randolph:3
+SUNY Delhi:7:Marymount (VA):23
+Birmingham-So.:17:Ill. Wesleyan:7
+Piedmont:21:Spalding:4
+Colorado Mesa:15:Colorado Col.:9
+Lynchburg:14:St. Mary's (MD):5
+Washington Col.:16:Eastern:12
+Keene St.:8:Endicott:14
+Southwestern (TX):18:Hendrix:12
+Alma:7:Ohio Northern:16
+Emerson:11:Nichols:14
+IIT:15:Cornell College:4
+Hampden-Sydney:14:Southern Va.:5
+Oglethorpe:5:LaGrange:15
+Cabrini:18:Haverford:6
+William Peace:20:Bethany (WV):4
+Aurora:14:Dubuque:8
+York (PA):10:Wash. & Lee:11
+Albion:12:Otterbein:11
+Wheaton (MA):11:U New England:7
+Stevenson:11:Ursinus:14
+Grove City:11:Chris. Newport:23
+Scranton:10:Salisbury:25
+Mount Union:28:Thiel:7
+RIT:10:Muhlenberg:9
+Mary Washington:14:Shenandoah:9
+Lebanon Valley:6:Franklin & Marshall:18
+DeSales:5:Gettysburg:22
+Russell Sage:10:WestConn:22
+Susquehanna:15:Lycoming:7
+Roger Williams:10:Babson:12
+Penn College:14:FDU-Florham:8
+Stevens:6:Dickinson:13
+Methodist:4:Goucher:7
+Neumann:12:Va. Wesleyan:14
+Swarthmore:19:Widener:7
+Greensboro:6:Berry:14
+Hanover:13:Wilmington (OH):3
+McDaniel:9:Messiah:14
+Denison:15:Baldwin Wallace:5
+Springfield:8:Nazareth:10
+UMass Boston:11:Salve Regina:17
+Saint Vincent:11:Ohio Wesleyan:8
+Sewanee:6:Roanoke:17
+Juniata:9:Wilkes:8
+Rensselaer:11:Coast Guard:12
+Concordia Wisconsin:24:Monmouth (IL):5
+Carroll (WI):2:Lake Forest:19
+Calvin:23:Augustana (IL):11
+Averett:21:Warren Wilson:3
+Moravian:25:Centenary (NJ):5
+Alvernia:10:Rosemont:9
+Drew:19:Albright:14
+Chatham:7:Oberlin:17
+Concordia Chicago:3:Earlham:15
+Cobleskill St.:16:Cairn:7
+Anna Maria:8:Manhattanville:21
+Piedmont:6:Centre:13
+Carthage:25:Marian (WI):11
+SUNY Delhi:6:Immaculata:14
+Brevard:4:Ferrum:9
+Rhodes:17:Ill. Wesleyan:13
+Birmingham-So.:13:Elmhurst:17
+Skidmore:15:Kean:16
+Western New Eng.:23:Keene St.:12
+IIT:11:Calvin:9
+U New England:13:St. Joseph's (ME):9
+Salve Regina:7:WestConn:16
+Stockton:14:DeSales:9
+Wabash:20:Monmouth (IL):12
+Shenandoah:12:Hood:13
+Huntingdon:10:Oglethorpe:11
+Guilford:8:Pfeiffer:15
+Mt. St. Joseph:0:Trine:15
+Wooster:12:Westminster (PA):10
+Birmingham-So.:19:LaGrange:7
+La Roche:0:Wash. & Jeff.:35
+Anna Maria:13:New England Col.:12
+Dickinson:12:Susquehanna:7
+Chatham:9:Marietta:4
+Dean:24:Mitchell:3
+Warren Wilson:4:Pfeiffer:25
+Wentworth:9:Emerson:11
+Gwynedd Mercy:15:Albright:16
+Ursinus:10:York (PA):21
+SUNY Maritime:14:SUNY New Paltz:10
+Haverford:9:Stevens:17
+Concordia Chicago:5:Lake Forest:19
+Wash. & Lee:22:Catholic:4
+Juniata:8:Saint Vincent:17
+King's (PA):3:Neumann:13
+Baldwin Wallace:10:Kenyon:11
+Curry:8:Saint Joseph (CT):9
+Utica:6:SUNY Morrisville:10
+Marywood:11:Penn College:14
+UMass Boston:18:Nichols:12
+Adrian:9:Ohio Northern:15
+Moravian:13:Lebanon Valley:20
+Clark (MA):2:Rensselaer:17
+Vassar:10:Montclair St.:11
+Wilmington (OH):3:Earlham:9
+Elizabethtown:23:Arcadia:13
+Roanoke:24:Averett:5
+St. Mary's (MD):10:Randolph-Macon:16
+Franklin & Marshall:15:Messiah:7
+Eastern:12:Swarthmore:17
+Muskingum:16:Thiel:8
+Delaware Valley:18:Rosemont:12
+Gordon:7:Wheaton (MA):17
+FDU-Florham:21:Centenary (NJ):3
+Allegheny:16:Hiram:6
+DePauw:8:Kalamazoo:4
+Hendrix:11:Piedmont:14
+Salem St.:6:Albertus Magnus:11
+Albion:16:Oberlin:13
+MIT:13:Endicott:15
+Whittier:13:Randolph-Macon:22
+Benedictine (IL):3:North Central (IL):14
+Colorado Col.:7:Muhlenberg:17
+Centenary (LA):3:Huntingdon:16
+Spalding:8:Brevard:22
+Hood:17:Va. Wesleyan:11
+SUNY Brockport:7:Alfred:11
+Chris. Newport:19:Stevenson:11
+Southern Va.:9:Centre:18
+Roger Williams:15:Lasell:8
+Concordia Wisconsin:5:Calvin:8
+Anna Maria:6:Merchant Marine:24
+Stockton:20:Elizabethtown:15
+Randolph:9:William Peace:13
+King's (PA):6:Susquehanna:19
+Gwynedd Mercy:8:Juniata:9
+Mt. St. Joseph:3:Heidelberg:16
+Purchase:8:Centenary (NJ):5
+Wabash:21:Concordia Chicago:6
+Franciscan:10:Hiram:9
+Manhattanville:7:Marywood:6
+Capital:8:Kenyon:16
+Messiah:15:Marymount (VA):9
+Swarthmore:7:Vassar:15
+Lynchburg:11:Cabrini:7
+Northwestern-St. Paul:7:Augustana (IL):10
+SUNY Geneseo:13:Nazareth:11
+Bates:10:RIT:22
+Scranton:10:Montclair St.:9
+Neumann:10:Wilkes:2
+Salisbury:10:Gettysburg:12
+Drew:9:Fairleigh Dickinson-FDU:12
+Lycoming:9:McDaniel:11
+Albright:10:Penn College:21
+Shenandoah:6:Widener:13
+Wash. & Lee:15:Washington Col.:10
+Lake Forest:14:Beloit:1
+Delaware Valley:6:Lebanon Valley:15
+Carthage:12:Alma:10
+St. Joseph's (ME):9:Emerson:22
+Mount Union:6:Saint Vincent:10
+Westminster (PA):6:Ohio Wesleyan:17
+Russell Sage:5:Misericordia:22
+Ferrum:6:Greensboro:19
+Elmhurst:12:Hope:11
+Franklin & Marshall:23:Catholic:10
+Whittier:10:St. Mary's (MD):24
+Wittenberg:8:Adrian:12
+Transylvania:4:Rhodes:13
+Cornell College:1:Aurora:22
+Monmouth (IL):6:Marian (WI):16
+Alvernia:4:Mt. St. Mary (NY):10
+Berry:11:Goucher:6
+Baldwin Wallace:14:Grove City:12
+Hilbert:6:Thiel:19
+Haverford:9:Mary Washington:5
+Muskingum:10:Wash. & Jeff.:7
+Kalamazoo:18:Earlham:3
+Cairn:0:Immaculata:16
+Wooster:13:Otterbein:3
+SUNY Morrisville:8:SUNY Delhi:5
+VTSU Castleton:5:Saint Joseph (CT):14
+Rensselaer:16:DeSales:10
+SUNY Oneonta:14:Utica:8
+Denison:13:Hampden-Sydney:8
+Hanover:8:Southwestern (TX):14
+Spalding:12:Warren Wilson:13
+Ohio Northern:14:DePauw:1
+Centenary (LA):8:LaGrange:30
+Dickinson:14:Roanoke:13
+Hood:14:Methodist:4
+Stevens:13:Springfield:5
+Nichols:8:Clark (MA):6
+Mitchell:3:MCLA:24
+Coast Guard:9:Western New Eng.:5
+Curry:5:Wheaton (MA):6
+Northland:6:Carroll (WI):7
+Colorado Col.:9:Ursinus:15
+Pfeiffer:14:Oglethorpe:2
+Union (NY):14:Babson:9
+Farmingdale St.:7:Lynn:15
+Russell Sage:23:Wells:3
+Maine Maritime:19:Southern Me.:9
+Bridgewater (VA):22:Hendrix:8
+Emmanuel (MA):5:Wentworth:11
+Plymouth St.:10:U New England:8
+Eastern Conn. St.:11:Gordon:7
+Lycoming:2:Ithaca:21
+Albion:17:Rhodes:16
+MSOE:8:DePauw:9
+Ill. Wesleyan:19:Benedictine (IL):10
+Calvin:10:Southwestern (TX):13
+Edgewood:11:Carroll (WI):6
+St. Lawrence:19:SUNY Potsdam:8
+Russell Sage:10:Dean:17
+Westminster (PA):14:Alfred:19
+Kenyon:14:Otterbein:5
+Messiah:18:King's (PA):7
+Plymouth St.:12:Norwich:8
+Heidelberg:3:Trine:13
+SUNY Brockport:7:Clarkson:16
+Southern Me.:7:JWU (Providence):8
+Penn College:11:Juniata:4
+Emmanuel (MA):8:Nichols:14
+Hartford:24:Mitchell:0
+Hiram:5:Bethany (WV):3
+Hanover:18:Centenary (LA):9
+Misericordia:13:Susquehanna:12
+IIT:7:Lake Forest:12
+Oberlin:15:Adrian:7
+Bridgewater (VA):12:Piedmont:10
+Lebanon Valley:12:Mary Washington:18
+St. John Fisher:5:Cortland:12
+Arcadia:4:Ursinus:17
+SUNY Geneseo:15:SUNY Morrisville:8
+Goucher:4:McDaniel:14
+Earlham:2:Wabash:18
+Medaille:4:Hilbert:7
+Randolph-Macon:7:Chris. Newport:19
+Endicott:6:Union (NY):13
+Skidmore:22:SUNY Oneonta:6
+Stockton:13:Scranton:19
+Immaculata:7:Alvernia:8
+Chatham:10:Rosemont:6
+Nazareth:9:RIT:18
+Plattsburgh St.:14:SUNY Canton:2
+Wentworth:13:St. Joseph's (ME):9
+Vassar:15:Keene St.:9
+Guilford:11:Methodist:6
+Monmouth (IL):5:Quincy:30
+Elizabethtown:11:Washington Col.:14
+Alma:12:Huntingdon:11
+Purchase:2:Drew:16
+Marymount (VA):8:St. Mary's (MD):20
+Aurora:6:Hope:9
+DeSales:7:Muhlenberg:15
+Wash. & Jeff.:11:Marietta:14
+Catholic:3:Stevenson:14
+Stevens:22:SUNY Maritime:12
+Pfeiffer:23:Ferrum:7
+Augustana (IL):16:Cornell College:3
+Malone:21:Thiel:9
+Allegheny:13:Mount Union:10
+Roger Williams:12:Wheaton (MA):8
+Capital:7:Wooster:14
+SUNY New Paltz:8:Farmingdale St.:11
+Husson:12:Eastern Nazarene:4
+Emerson:14:U New England:12
+MIT:21:UMass Boston:13
+Montclair St.:17:Fairleigh Dickinson-FDU:6
+Calvin:8:Eastern:20
+MSOE:4:Ill. Wesleyan:30
+Albertus Magnus:25:Centenary (NJ):4
+Utica:4:SUNY Poly:1
+Merchant Marine:15:WestConn:16
+Eastern Conn. St.:7:Curry:16
+Brevard:7:Oglethorpe:10
+Dubuque:4:Rhodes:11
+Norwich:10:New England Col.:4
+Mass. Maritime:10:Curry:5
+Connecticut Col.:11:Endicott:12
+Saint Joseph (CT):3:Nichols:16
+Ohio Northern:12:Wittenberg:7
+Hartwick:5:Farmingdale St.:13
+Salve Regina:15:Merchant Marine:11
+Trine:21:Spalding:1
+Methodist:12:Averett:3
+Catholic:8:Chris. Newport:22
+Albright:7:Delaware Valley:12
+Misericordia:12:Randolph-Macon:19
+Northwestern-St. Paul:5:Kalamazoo:13
+Eastern:22:Southwestern (TX):10
+Neumann:5:Susquehanna:17
+Cairn:8:CMSV:12
+Salem St.:17:Mitchell:1
+Chatham:3:Messiah:21
+Emerson:6:Roger Williams:10
+Concordia Wisconsin:13:Cornell College:6
+John Carroll:14:Roanoke:20
+Hampden-Sydney:24:Greensboro:12
+Moravian:11:Muskingum:8
+Albion:20:Dubuque:8
+Concordia Chicago:2:Anderson (IN):19
+Thomas (ME):6:Albertus Magnus:21
+Alma:7:Rhodes:23
+Whittier:15:Ill. Wesleyan:16
+SUNY Geneseo:12:Ithaca:13
+Husson:4:Va. Wesleyan:20
+Southern Va.:4:Baldwin Wallace:10
+Beloit:7:Northland:10
+Hiram:9:Thiel:16
+Plattsburgh St.:10:Russell Sage:9
+Monmouth (IL):8:Carroll (WI):7
+Trinity (CT):6:Williams:16
+Wilmington (OH):6:Franciscan:12
+St. Mary's (MD):11:Shenandoah:8
+SUNY Brockport:8:Wooster:14
+Lebanon Valley:15:Goucher:7
+Carthage:11:Hope:13
+Washington Col.:22:Widener:16
+Gwynedd Mercy:5:Arcadia:17
+Lasell:5:Vassar:13
+Benedictine (IL):3:Lake Forest:12
+Huntingdon:5:Hendrix:21
+Dickinson:16:Cabrini:11
+Mount Union:8:Westminster (PA):11
+Lycoming:12:Allegheny:8
+Wash. & Jeff.:10:Heidelberg:3
+Elizabethtown:7:Swarthmore:13
+Stockton:13:SUNY Maritime:12
+Birmingham-So.:8:Transylvania:10
+Kean:20:Immaculata:4
+Coast Guard:14:Grove City:11
+Salisbury:16:Lynchburg:15
+Adrian:14:Sewanee:13
+Manhattanville:7:Marymount (VA):13
+Alvernia:2:McDaniel:15
+Drew:11:Penn College:12
+Marian (WI):33:Mt. St. Joseph:6
+North Central (IL):12:Ohio Wesleyan:13
+Mt. St. Mary (NY):11:Marywood:10
+DeSales:3:Ursinus:10
+Wilkes:15:Rosemont:8
+Gettysburg:14:Stevenson:12
+York (PA):10:RIT:11
+Haverford:12:Colorado Col.:14
+Western New Eng.:14:MIT:25
+Thomas (ME):3:JWU (Providence):18
+Wash. & Lee:12:Denison:9
+Amherst:15:Hamilton:10
+Clarkson:12:Nazareth:7
+Alfred:5:Skidmore:16
+Centre:14:Elmhurst:15
+Pfeiffer:18:Moravian:5
+Bowdoin:15:Middlebury:21
+Tufts:27:Colby:9
+Regis (MA):11:MCLA:6
+St. Joseph's (ME):9:Plymouth St.:10
+Muskingum:11:Ferrum:7
+SUNY New Paltz:8:SUNY Morrisville:10
+Muhlenberg:6:Rensselaer:11
+Springfield:5:Union (NY):13
+Cortland:21:Scranton:14
+Keene St.:12:Rivier:11
+McDaniel:9:Montclair St.:4
+Wabash:17:Va. Wesleyan:22
+Whittier:18:Augustana (IL):9
+Wesleyan (CT):24:Bates:5
+Husson:15:Randolph:6
+Bethany (WV):17:Centenary (NJ):9
+SUNY Delhi:4:Castleton:6
+Marian (WI):29:Spalding:5
+Wentworth:3:Florida Tech:17
+SUNY Potsdam:14:Neumann:12
+Stevens:10:SUNY Oneonta:5
+Otterbein:11:Methodist:2
+UMass Boston:6:Connecticut Col.:17
+Northwestern-St. Paul:4:Calvin:15
+Oswego St.:7:Clarkson:19
+Dean:10:Purchase:1
+Wittenberg:9:Southwestern (TX):14
+Roanoke:9:Franklin & Marshall:14
+Grove City:27:Thiel:4
+Gordon:20:Russell Sage:12
+Guilford:22:Brevard:3
+Haverford:6:Kenyon:7
+Hampden-Sydney:7:Cabrini:16
+Marywood:6:Wilkes:5
+Misericordia:13:Bridgewater (VA):15
+Saint Vincent:14:William Peace:8
+Whittier:9:North Central (IL):17
+Aurora:7:Rhodes:16
+Lasell:5:Plymouth St.:4
+Utica:5:Hamilton:20
+Sewanee:12:Piedmont:11
+Juniata:7:Marymount (VA):17
+Anna Maria:7:Farmingdale St.:26
+Adrian:11:Capital:18
+Goucher:5:Neumann:6
+Dubuque:18:Concordia Wisconsin:9
+Hope:6:Oberlin:15
+SUNY Potsdam:15:Moravian:9
+Northland:10:Edgewood:15
+St. Joseph's (ME):6:Colby:26
+Nichols:8:New England Col.:4
+Regis (MA):14:Mitchell:3
+Rivier:10:VTSU Castleton:4
+Eastern Nazarene:4:MCLA:16
+St. Lawrence:15:SUNY Geneseo:6
+Cairn:3:Alvernia:11
+Alfred:7:Emmanuel (MA):10
+Randolph:3:Wabash:9
+Rosemont:14:Albright:24
+Wash. & Jeff.:8:Hiram:5
+SUNY Morrisville:19:SUNY Canton:5
+Norwich:12:Mass. Maritime:15
+Benedictine (IL):9:Kalamazoo:10
+Clark (MA):9:Fla. Southern:22
+Carthage:22:Lake Forest:9
+DeSales:14:Mary Washington:13
+Plattsburgh St.:4:Skidmore:19
+Penn College:7:St. Mary's (MD):29
+Eastern Conn. St.:14:Saint Joseph (CT):11
+King's (PA):5:Hood:16
+Allegheny:5:Shenandoah:9
+Franciscan:25:La Roche:0
+Drew:22:Manhattanville:11
+McDaniel:14:Chatham:7
+Ithaca:14:Nazareth:9
+Berry:9:Transylvania:7
+St. John Fisher:12:Chris. Newport:16
+Southern Me.:8:U New England:13
+MIT:18:Roger Williams:10
+Franklin & Marshall:13:Elizabethtown:14
+Husson:8:Averett:11
+Cornell College:4:Quincy:20
+Keuka:6:Lycoming:14
+Williams:4:Union (NY):12
+Vassar:17:Emerson:16
+Wooster:17:Albion:15
+Trinity (CT):10:Babson:17
+SUNY Maritime:2:Wesleyan (CT):18
+Kean:21:FDU-Florham:3
+Springfield:9:Tufts:31
+Scranton:13:Muhlenberg:17
+Mt. St. Joseph:9:Wilmington (OH):18
+Earlham:3:Heidelberg:7
+Widener:13:Stockton:24
+MSOE:6:Elmhurst:22
+Mt. St. Mary (NY):8:SUNY New Paltz:11
+SUNY Delhi:18:Keystone:5
+Gwynedd Mercy:13:Southwestern (TX):14
+Kenyon:18:Colorado Col.:14
+Saint Vincent:15:Greensboro:8
+SUNY Oneonta:16:Hartwick:12
+Otterbein:9:Pfeiffer:15
+John Carroll:13:Colorado Col.:11
+Birmingham-So.:11:Wittenberg:14
+Cortland:17:Lasell:2
+Gordon:22:Salem St.:3
+Va. Wesleyan:17:Averett:3
+Husson:13:Brevard:12
+Stevenson:8:Lynchburg:12
+Curry:9:Plymouth St.:11
+Emmanuel (MA):6:Mary Washington:14
+Norwich:6:UMass Boston:28
+Berry:4:Baldwin Wallace:13
+Messiah:7:Sewanee:8
+Randolph-Macon:7:Washington Col.:15
+Wabash:4:Hampton:16
+Southern Me.:9:Rivier:20
+William Peace:6:Methodist:15
+Lebanon Valley:19:King's (PA):9
+Maine Maritime:9:Mass. Maritime:13
+Cobleskill St.:23:Eastern Nazarene:7
+DePauw:6:Trine:8
+Ill. Wesleyan:9:Dickinson:11
+Monmouth (IL):16:Edgewood:24
+Bryn Athyn:20:La Roche:4
+Elmhurst:20:Albion:17
+Haverford:8:Susquehanna:5
+SUNY Poly:15:Medaille:4
+Salve Regina:14:Clark (MA):6
+MCLA:6:CMSV:9
+Wentworth:4:WestConn:16
+Capital:20:Hendrix:11
+Carroll (WI):5:LaGrange:15
+Hilbert:1:JWU (Providence):18
+Swarthmore:18:Roanoke:13
+Birmingham-So.:15:Southwestern (TX):7
+Catholic:11:Hampden-Sydney:16
+Anderson (IN):8:Heidelberg:13
+Mount Union:14:Wash. & Jeff.:11
+Allegheny:6:Wooster:9
+Purchase:7:Saint Joseph (CT):11
+Montclair St.:5:Chris. Newport:20
+Delaware Valley:3:Hood:16
+Middlebury:10:Connecticut Col.:9
+Grove City:17:Southern Va.:6
+St. John Fisher:9:Muhlenberg:10
+Penn College:8:Shenandoah:15
+Plattsburgh St.:10:U New England:15
+Wesleyan (CT):7:Stevens:15
+Rensselaer:10:MIT:14
+Elizabethtown:13:St. Mary's (MD):12
+Wheaton (MA):9:Vassar:21
+Nazareth:11:St. Lawrence:16
+Williams:15:Colby:8
+Calvin:13:Lake Forest:11
+Emerson:8:Union (NY):21
+Cornell College:11:Beloit:5
+New England Col.:2:St. Joseph's (ME):19
+Anna Maria:5:Kean:22
+Marymount (VA):9:Stockton:22
+Gettysburg:15:Wash. & Lee:9
+Franciscan:17:Mt. St. Joseph:10
+Hamilton:16:Bowdoin:17
+York (PA):10:Salisbury:14
+SUNY Morrisville:7:Oswego St.:9
+Oberlin:14:Muskingum:3
+Wells:4:SUNY Canton:24
+Bates:12:Trinity (CT):19
+Goucher:5:Immaculata:9
+Arcadia:7:Eastern:9
+Tufts:23:Amherst:21
+Benedictine (IL):2:Hope:20
+Thiel:8:Keuka:16
+Castleton:5:Utica:10
+Endicott:5:Cabrini:11
+Westminster (PA):10:SUNY Brockport:14
+Adrian:14:Chatham:6
+Ursinus:10:RIT:17
+Husson:16:Keystone:11
+Middlebury:10:Rensselaer:9
+SUNY Geneseo:13:SUNY Maritime:8
+North Central (IL):6:Clarkson:12
+Hendrix:26:Carroll (WI):1
+LaGrange:11:Capital:26
+Ohio Wesleyan:23:Albright:7
+Babson:17:Western New Eng.:11
+Lasell:9:Farmingdale St.:13
+Rhodes:7:John Carroll:12
+Randolph:2:Oglethorpe:12
+Baldwin Wallace:14:Transylvania:7
+Spalding:3:Huntingdon:21
+Northland:6:Marian (WI):9
+Cortland:21:Washington Col.:4
+Marietta:8:Saint Vincent:9
+SUNY Oneonta:16:Greensboro:15
+Ohio Northern:9:Bridgewater (VA):5
+Lycoming:11:Drew:12
+Mt. St. Joseph:0:Hiram:11
+MCLA:9:Salem St.:4
+SUNY Canton:8:Utica:14
+Scranton:13:Sewanee:9
+Rhodes:10:Colorado Col.:14
+Va. Wesleyan:11:Piedmont:13
+SUNY Oneonta:17:Methodist:12
+Merchant Marine:1:Salisbury:13
+Lasell:15:Eastern Conn. St.:10
+FDU-Florham:11:UMass Boston:23
+Bowdoin:19:Western New Eng.:7
+Spalding:1:Southwestern (TX):29
+Ohio Wesleyan:8:Cabrini:12
+Lynchburg:4:Tufts:19
+St. Mary's (MD):10:Denison:14
+Mitchell:1:Albertus Magnus:26
+Endicott:12:Springfield:18
+Saint Vincent:7:Muskingum:6
+Castleton:4:SUNY Potsdam:19
+Otterbein:7:Wittenberg:9
+Transylvania:10:Capital:18
+Rivier:13:Mass. Maritime:9
+Cornell College:3:Trine:19
+Ohio Northern:5:Hampden-Sydney:10
+Hartford:12:Randolph:0
+Rosemont:9:Purchase:10
+Hiram:10:Medaille:4
+Coast Guard:7:SUNY Maritime:10
+SUNY Poly:4:Kean:21
+Va. Wesleyan:9:Pfeiffer:21
+Keene St.:8:Clarkson:14
+North Central (IL):10:WestConn:11
+Bowdoin:18:Nazareth:8
+Hartwick:12:Oswego St.:6
+Emmanuel (MA):8:Wheaton (MA):5
+SUNY Geneseo:20:Widener:10
+Ithaca:10:Wash. & Lee:19
+Messiah:11:Elizabethtown:10
+Nichols:9:Gwynedd Mercy:10
+Carroll (WI):3:Hanover:15
+Vassar:21:Mt. St. Mary (NY):1
+SUNY Brockport:10:Utica:4
+Anderson (IN):9:Wash. & Jeff.:8
+Stevens:14:Eastern:10
+Marywood:4:Moravian:14
+Kenyon:14:Adrian:5
+Norwich:9:Southern Me.:12
+Susquehanna:8:Lebanon Valley:17
+Montclair St.:21:Misericordia:12
+Mary Washington:11:Roanoke:13
+Thomas (ME):18:Salem St.:9
+Wesleyan (CT):19:Salve Regina:7
+Hamilton:15:Rensselaer:12
+Alfred:18:Lycoming:10
+Guilford:12:William Peace:7
+Russell Sage:17:CMSV:8
+Wilmington (OH):6:Bethany (WV):9
+Chatham:8:Hood:4
+Trinity (CT):25:Wentworth:4
+Elmhurst:8:Aurora:10
+Marymount (VA):9:Shenandoah:15
+Goucher:9:Delaware Valley:8
+McDaniel:9:Randolph-Macon:10
+Marietta:8:Westminster (PA):21
+Beloit:1:Dubuque:23
+Stockton:11:Swarthmore:15
+Allegheny:6:Baldwin Wallace:8
+Grove City:12:John Carroll:15
+Albright:11:Immaculata:12
+Roger Williams:7:Skidmore:18
+Gordon:9:JWU (Providence):6
+Juniata:5:Keuka:9
+Plymouth St.:9:Plattsburgh St.:5
+Centenary (NJ):6:Bryn Athyn:19
+Wilmington (OH):23:La Roche:1
+Farmingdale St.:17:Eastern Conn. St.:0
+Lake Forest:9:UMass Boston:27
+New England Col.:7:U New England:14
+Emerson:2:Muhlenberg:8
+Greensboro:11:Sewanee:19
+Spalding:2:Centenary (LA):23
+Southern Va.:8:Birmingham-So.:6
+Bates:8:Amherst:15
+Franklin & Marshall:10:York (PA):16
+Dickinson:14:Stevenson:15
+Southwestern (TX):8:Wooster:14
+RIT:11:Chris. Newport:15
+DeSales:6:Cabrini:15
+Lynchburg:5:St. Lawrence:14
+Alvernia:15:Keystone:5
+Gettysburg:9:Denison:10
+Wentworth:6:Rivier:10
+King's (PA):1:Alfred:22
+Hartwick:16:Plattsburgh St.:4
+Transylvania:8:Wittenberg:14
+Emmanuel (MA):14:Norwich:7
+Saint Joseph (CT):7:Lasell:15
+Aurora:11:Calvin:9
+Scranton:10:Eastern:8
+Randolph-Macon:9:Hampden-Sydney:17
+SUNY Geneseo:10:Clarkson:12
+Hiram:25:La Roche:0
+Cairn:6:Purchase:5
+Regis (MA):5:JWU (Providence):16
+Gwynedd Mercy:8:Delaware Valley:10
+Hood:3:Susquehanna:16
+Neumann:7:Chatham:6
+Albertus Magnus:13:Anna Maria:10
+Mt. St. Joseph:4:Bethany (WV):16
+IIT:9:DePauw:4
+Juniata:3:Marywood:9
+Edgewood:5:Mount Union:18
+Wooster:15:Colorado Col.:10
+MCLA:23:Cazenovia:2
+Lake Forest:13:FDU-Florham:10
+Dickinson:12:Chris. Newport:13
+Methodist:11:Piedmont:17
+Brevard:5:Huntingdon:21
+Ohio Northern:8:Roanoke:22
+Salem St.:1:Maine Maritime:28
+William Peace:13:Averett:6
+Southern Va.:14:LaGrange:10
+Earlham:14:Centenary (LA):12
+CMSV:2:SUNY New Paltz:18
+St. Joseph's (ME):11:Dean:10
+Western New Eng.:11:Nazareth:12
+Berry:11:Centre:12
+Sewanee:12:Oglethorpe:5
+Amherst:19:York (PA):16
+SUNY Brockport:6:St. Mary's (MD):12
+Widener:10:Elizabethtown:18
+Russell Sage:17:St. Joseph's (L.I.):4
+Marymount (VA):13:Westminster (PA):19
+Husson:14:Southern Me.:20
+Kalamazoo:7:Augustana (IL):9
+Wabash:10:Hanover:9
+Skidmore:10:Haverford:5
+Carroll (WI):1:Trine:13
+Merchant Marine:18:Drew:17
+Wash. & Lee:25:Guilford:4
+Manhattanville:9:Wilkes:11
+Bowdoin:11:Williams:12
+Trinity (CT):9:Middlebury:15
+Montclair St.:20:Lycoming:10
+Colby:12:Wesleyan (CT):21
+Hendrix:13:Carthage:25
+SUNY Potsdam:10:SUNY Morrisville:6
+Saint Vincent:6:McDaniel:9
+Swarthmore:16:Arcadia:10
+Rensselaer:18:Vassar:7
+Connecticut Col.:10:Hamilton:16
+Mary Washington:6:Washington Col.:14
+SUNY Canton:10:SUNY Delhi:17
+Misericordia:12:Lebanon Valley:11
+Curry:7:Gordon:5
+Ursinus:13:St. John Fisher:12
+Hope:8:Rhodes:12
+Babson:16:Coast Guard:8
+John Carroll:11:Ohio Wesleyan:7
+Cortland:12:Salisbury:20
+Springfield:14:Wheaton (MA):4
+Nichols:15:Goucher:12
+Immaculata:13:Penn College:15
+Allegheny:9:Marietta:8
+Beloit:7:Monmouth (IL):6
+Bates:7:St. Lawrence:16
+Northwestern-St. Paul:6:Marian (WI):11
+Messiah:14:Grove City:12
+MIT:22:Clark (MA):9
+Lynchburg:13:Franklin & Marshall:12
+Oberlin:11:Kean:16
+Ferrum:5:Bridgewater (VA):18
+RIT:20:Stevenson:9
+Northland:4:Concordia Wisconsin:16
+Otterbein:7:Adrian:8
+Southwestern (TX):12:Colorado Col.:21
+Cornell College:7:MSOE:15
+Warren Wilson:3:Huntingdon:26
+Russell Sage:5:Farmingdale St.:22
+Tufts:21:Stevens:7
+Dubuque:9:Carthage:17
+Kenyon:17:Albion:8
+Kalamazoo:14:Edgewood:11
+Delaware Valley:4:Kean:20
+Plymouth St.:18:New England Col.:7
+Alma:16:Muskingum:17
+Lasell:15:Dean:8
+Hendrix:17:IIT:11
+Trinity (CT):14:Emerson:9
+Union (NY):9:Middlebury:15
+Emmanuel (MA):9:Rivier:8
+SUNY Potsdam:19:SUNY Canton:5
+Salisbury:27:Montclair St.:7
+Wash. & Jeff.:6:Juniata:7
+Merchant Marine:12:Vassar:15
+Anna Maria:4:Saint Joseph (CT):18
+Tufts:24:Cabrini:7
+Pfeiffer:26:Brevard:4
+Medaille:3:Allegheny:22
+Skidmore:10:Cortland:18
+Grove City:9:Denison:23
+U New England:16:Maine Maritime:13
+Clarkson:13:Plattsburgh St.:5
+Capital:12:Wittenberg:9
+Marywood:13:King's (PA):2
+Keuka:27:Wells:2
+Nichols:5:Keene St.:13
+Bethany (WV):22:La Roche:0
+JWU (Providence):9:New England Col.:8
+Eastern Conn. St.:7:Roger Williams:18
+Elmhurst:15:Southwestern (TX):13
+Centenary (NJ):4:Cairn:16
+Mitchell:3:CMSV:19
+Purchase:5:Albertus Magnus:14
+Springfield:8:Amherst:17
+Hanover:2:DePauw:16
+Nazareth:11:SUNY Brockport:10
+Edgewood:6:Cornell College:12
+Alfred:6:SUNY Geneseo:18
+Messiah:24:Gwynedd Mercy:9
+Mass. Maritime:9:Salve Regina:15
+Western New Eng.:9:St. Lawrence:14
+Regis (MA):11:Eastern Nazarene:1
+SUNY New Paltz:16:SUNY Delhi:6
+Curry:8:Norwich:7
+Catholic:7:Gettysburg:22
+Lebanon Valley:12:Wilkes:5
+WestConn:6:Farmingdale St.:11
+Misericordia:15:Neumann:12
+SUNY Poly:14:Hilbert:2
+Colby:14:Widener:16
+St. Joseph's (ME):29:Southern Me.:13
+Oswego St.:8:Utica:3
+Chris. Newport:16:Wash. & Lee:11
+Northwestern-St. Paul:5:Northland:7
+Southern Va.:8:Ohio Wesleyan:9
+FDU-Florham:11:Mt. St. Mary (NY):10
+Penn College:14:Alvernia:3
+Coast Guard:7:Wesleyan (CT):25
+Hamilton:15:MIT:21
+Heidelberg:2:Westminster (PA):10
+Spalding:5:Wilmington (OH):15
+Delaware Valley:9:Immaculata:13
+Cazenovia:3:SUNY Canton:24
+Earlham:4:Hiram:16
+Castleton:6:Russell Sage:14
+Rensselaer:6:Williams:13
+Randolph-Macon:16:Shenandoah:8
+Hood:14:Marymount (VA):13
+Scranton:22:Arcadia:7
+Oberlin:11:Washington Col.:22
+Carroll (WI):7:Beloit:5
+Moravian:6:DeSales:22
+Baldwin Wallace:14:Chatham:3
+Plymouth St.:9:Gordon:8
+Augustana (IL):6:Dubuque:16
+Eastern:13:Stockton:20
+Kean:10:SUNY Maritime:11
+Wooster:17:Mount Union:11
+Endicott:9:Bowdoin:18
+St. John Fisher:14:RIT:16
+Rosemont:3:Goucher:25
+Carthage:21:Benedictine (IL):14
+Marietta:12:Franciscan:7
+Hope:14:Ill. Wesleyan:20
+Saint Joseph (CT):16:Manhattanville:5
+Aurora:12:North Central (IL):13
+Centre:13:Pfeiffer:14
+Cornell College:6:Marian (WI):10
+Piedmont:14:William Peace:8
+Birmingham-So.:7:Sewanee:8
+Rhodes:13:Oglethorpe:3
+Hendrix:13:Berry:22
+Carroll (WI):0:MSOE:23
+Norwich:9:JWU (Providence):11
+Cairn:5:Delaware Valley:11
+Wentworth:20:Manhattanville:9
+Dean:17:Regis (MA):2
+Alfred:16:Hartwick:12
+Edgewood:8:Northwestern-St. Paul:9
+Heidelberg:5:Marietta:14
+SUNY Cobleskill :5:SUNY Delhi:19
+St. John Fisher:15:Amherst:22
+Maine Maritime:21:MCLA:9
+Juniata:4:Scranton:25
+Albright:7:Marywood:14
+Ohio Northern:18:Mount Union:7
+Cortland:12:SUNY Geneseo:18
+Wheaton (MA):6:Emerson:14
+Wittenberg:7:Denison:20
+Albertus Magnus:13:Rivier:16
+St. Joseph's (ME):14:Emmanuel (MA):17
+Otterbein:13:Capital:15
+Spalding:0:Centre:25
+Anna Maria:5:Lasell:24
+Cabrini:19:Eastern:8
+Plattsburgh St.:9:SUNY New Paltz:18
+U New England:22:Eastern Nazarene:4
+Thomas More:3:Trine:17
+Moravian:10:Catholic:27
+Hilbert:23:Wells:10
+Randolph-Macon:28:Randolph:2
+Bryn Athyn:6:Gwynedd Mercy:17
+Clarkson:8:Ithaca:11
+Bethany (WV):6:Anderson (IN):2
+Hiram:7:Wabash:21
+Farmingdale St.:16:Alvernia:2
+Marymount (VA):7:Mary Washington:17
+Clark (MA):11:Babson:24
+Hartford:10:Saint Joseph (CT):7
+Alma:12:Augustana (IL):13
+Concordia Chicago:5:Northland:8
+Middlebury:14:Bates:4
+Westminster (PA):20:Franciscan:7
+VTSU Lyndon:4:Thomas (ME):23
+Grove City:8:York (PA):20
+Springfield:16:MIT:14
+Trinity (CT):9:Tufts:23
+Elizabethtown:16:Goucher:7
+Susquehanna:17:Drew:7
+La Roche:0:Penn College:26
+Ohio Wesleyan:10:Kenyon:8
+Wooster:11:Oberlin:7
+Lake Forest:9:Hope:20
+Arcadia:8:Widener:17
+RIT:18:Vassar:10
+Colby:11:Hamilton:16
+St. Lawrence:6:Union (NY):12
+SUNY Potsdam:7:SUNY Oneonta:17
+Calvin:10:Benedictine (IL):9
+UMass Boston:21:Plymouth St.:6
+Wilkes:6:Utica:9
+Muskingum:6:Baldwin Wallace:15
+Salem St.:1:Eastern Conn. St.:18
+Skidmore:9:Rensselaer:12
+Williams:9:Connecticut Col.:11
+Kean:16:Salve Regina:11
+Wesleyan (CT):8:Bowdoin:14
+Huntingdon:2:Southern Va.:17
+CMSV:5:Immaculata:12
+Wilmington (OH):2:John Carroll:26
+Ill. Wesleyan:17:Dubuque:5
+Averett:5:Shenandoah:20
+Albion:17:Carthage:14
+Husson:12:SUNY Canton:11
+WestConn:19:Castleton:6
+Montclair St.:7:SUNY Maritime:11
+Va. Wesleyan:8:Roanoke:29
+Lynchburg:14:Wash. & Lee:13
+Earlham:0:DePauw:16
+Haverford:6:Franklin & Marshall:16
+Lycoming:9:Neumann:7
+Dickinson:10:Muhlenberg:11
+LaGrange:23:Brevard:2
+Ferrum:21:Warren Wilson:3
+Oswego St.:9:SUNY Brockport:8
+Merchant Marine:19:Coast Guard:12
+Ursinus:10:Gettysburg:14
+Bridgewater (VA):5:St. Mary's (MD):24
+Keystone:4:Keuka:20
+Stockton:20:Misericordia:16
+McDaniel:4:Washington Col.:14
+Mt. St. Mary (NY):4:Curry:15
+Whittier:8:Elmhurst:10
+Hampden-Sydney:6:Chris. Newport:14
+Salisbury:15:Stevenson:6
+Birmingham-So.:16:Centre:14
+Medaille:15:Cazenovia:6
+Rhodes:15:Berry:12
+Whittier:13:Southwestern (TX):21
+Adrian:19:Hanover:5
+Hendrix:15:Oglethorpe:13
+Western New Eng.:24:Roger Williams:10
+Kalamazoo:6:Concordia Wisconsin:13
+Southern Me.:9:Dean:19
+Centenary (NJ):3:CMSV:23
+Wheaton (MA):11:Mass. Maritime:9
+Babson:12:Bowdoin:13
+Wash. & Jeff.:11:Bethany (WV):5
+Stockton:17:Vassar:12
+JWU (Providence):12:Albertus Magnus:2
+Regis (MA):9:Anna Maria:12
+Marian (WI):23:Northland:6
+Springfield:8:Middlebury:15
+Lasell:10:St. Joseph's (ME):13
+Russell Sage:10:Hartwick:17
+Emmanuel (MA):10:Saint Joseph (CT):4
+Tufts:14:Union (NY):7
+Maine Maritime:2:Bates:24
+Augustana (IL):6:Sewanee:13
+Connecticut Col.:10:WestConn:6
+Clarkson:7:SUNY Potsdam:5
+Rivier:13:Norwich:7
+UMass Boston:29:New England Col.:7
+Hartford:9:Gordon:8
+Delaware Valley:13:King's (PA):6
+Muskingum:6:Capital:11
+Hope:17:IIT:8
+MIT:19:Merchant Marine:3
+Wentworth:4:Endicott:20
+Misericordia:3:Ithaca:16
+Ohio Northern:18:Heidelberg:1
+DePauw:15:Salem St.:2
+North Central (IL):11:Dubuque:6
+Purchase:10:Mitchell:0
+SUNY Canton:4:Castleton:12
+Anderson (IN):21:Mt. St. Joseph:5
+Cobleskill St.:7:Medaille:3
+Warren Wilson:3:Greensboro:29
+Messiah:16:Alvernia:4
+Calvin:7:Elmhurst:15
+Eastern:25:Albright:7
+Huntingdon:7:LaGrange:17
+MCLA:6:SUNY Poly:11
+St. Joseph's (L.I.):5:SUNY New Paltz:17
+Moravian:23:CMSV:9
+Western New Eng.:9:Amherst:17
+Transylvania:6:Denison:17
+Gwynedd Mercy:5:Susquehanna:19
+Mount Union:9:Marietta:11
+Salve Regina:9:Nichols:8
+Wash. & Lee:10:Hampden-Sydney:11
+Roanoke:26:Guilford:7
+William Peace:9:Pfeiffer:17
+Williams:8:Chris. Newport:14
+Carthage:18:Concordia Wisconsin:12
+La Roche:0:Hilbert:21
+Keuka:2:Nazareth:23
+Utica:3:Scranton:17
+Grove City:15:Saint Vincent:12
+Immaculata:17:Rosemont:8
+DeSales:13:Lycoming:8
+Bryn Athyn:2:Penn College:13
+Kean:9:Stevenson:18
+Eastern Conn. St.:9:Clark (MA):13
+Mary Washington:12:Bridgewater (VA):9
+Concordia Chicago:3:Carroll (WI):8
+Hood:4:York (PA):20
+Curry:8:U New England:12
+Stevens:28:FDU-Florham:10
+RIT:13:Cortland:8
+Gettysburg:18:McDaniel:8
+Lebanon Valley:8:Widener:24
+Haverford:11:Washington Col.:14
+Thiel:3:Allegheny:14
+Muhlenberg:8:Swarthmore:18
+John Carroll:4:Baldwin Wallace:8
+SUNY Geneseo:9:St. John Fisher:8
+Trinity (CT):9:Coast Guard:8
+Arcadia:26:Wilkes:5
+Franklin & Marshall:8:Dickinson:14
+Ill. Wesleyan:16:Aurora:7
+Wilmington (OH):2:Otterbein:19
+Monmouth (IL):3:Augustana (IL):22
+Colorado Col.:15:Whittier:8
+Albertus Magnus:23:Keystone:11
+Dean:6:Emmanuel (MA):10
+Cobleskill St.:14:Husson:13
+SUNY Delhi:11:Maine Maritime:12
+Catholic:16:Susquehanna:9
+Southern Me.:11:Mass. Maritime:20
+Medaille:0:St. John Fisher:27
+Averett:4:Hampden-Sydney:22
+Randolph:1:Lynchburg:18
+SUNY Poly:20:NVU-Lyndon:5
+Southwestern (TX):10:Hope:18
+Ithaca:10:St. Lawrence:12
+Sewanee:13:Hendrix:9
+Oglethorpe:8:Birmingham-So.:27
+Endicott:18:Salve Regina:5
+Connecticut Col.:13:Colby:8
+Centre:14:Rhodes:13
+Saint Joseph (CT):12:Rivier:20
+Ohio Wesleyan:12:Wittenberg:9
+Beloit:1:Concordia Wisconsin:16
+Babson:15:Springfield:9
+Widener:14:Eastern:22
+Hanover:6:Trine:12
+Eastern Conn. St.:10:Keene St.:20
+Union (NY):8:Clarkson:9
+Keystone:4:Purchase:15
+Anna Maria:3:JWU (Providence):19
+John Carroll:9:Ohio Northern:3
+Mitchell:4:Manhattanville:26
+Calvin:9:North Central (IL):17
+New England Col.:7:Castleton:8
+Bowdoin:12:Amherst:13
+Elizabethtown:13:Scranton:8
+Merchant Marine:9:SUNY Maritime:10
+Centenary (LA):2:Anderson (IN):9
+Northwestern-St. Paul:10:Cornell College:6
+Emerson:10:Clark (MA):16
+Capital:16:Mount Union:13
+SUNY New Paltz:8:SUNY Geneseo:17
+Albright:10:Alvernia:3
+King's (PA):11:Misericordia:29
+Plattsburgh St.:11:Oswego St.:16
+Methodist:6:Southern Va.:17
+Heidelberg:2:Muskingum:17
+St. Mary's (MD):7:Dickinson:15
+Norwich:17:Regis (MA):6
+LaGrange:10:Greensboro:15
+Salisbury:17:Stockton:12
+Plymouth St.:6:WestConn:15
+Wash. & Jeff.:3:Saint Vincent:28
+Va. Wesleyan:12:Ferrum:8
+Mary Washington:13:Montclair St.:15
+Gettysburg:14:Haverford:8
+Franklin & Marshall:6:Swarthmore:13
+Roger Williams:20:Curry:10
+Marymount (VA):29:Centenary (NJ):0
+Chatham:16:Thiel:6
+McDaniel:7:Ursinus:13
+Aurora:16:Kalamazoo:3
+Ill. Wesleyan:19:Carroll (WI):3
+Baldwin Wallace:10:Otterbein:4
+Bates:6:Williams:18
+Western New Eng.:18:U New England:9
+Pfeiffer:19:Huntingdon:5
+Moravian:9:Drew:8
+FDU-Florham:7:Arcadia:23
+Immaculata:11:Gwynedd Mercy:21
+Salem St.:2:UMass Boston:33
+Wilkes:9:Delaware Valley:16
+Marywood:3:Cabrini:21
+Edgewood:6:Benedictine (IL):17
+Goucher:14:Juniata:5
+Marietta:13:Wilmington (OH):2
+Stevenson:22:Lebanon Valley:7
+York (PA):19:Messiah:6
+IIT:9:MSOE:14
+Wooster:8:DePauw:5
+Marian (WI):26:Concordia Chicago:4
+SUNY Oneonta:8:SUNY Brockport:5
+Hamilton:11:Wesleyan (CT):19
+SUNY Potsdam:8:Cortland:16
+Elmhurst:13:Carthage:14
+Trinity (CT):15:MIT:19
+Middlebury:15:Tufts:19
+Northland:3:Lake Forest:22
+Guilford:10:Randolph-Macon:22
+Brevard:5:William Peace:17
+Bridgewater (VA):6:Wash. & Lee:23
+Shenandoah:5:Roanoke:19
+St. Joseph's (ME):23:Albertus Magnus:9
+Vassar:10:Skidmore:13
+Penn College:13:SUNY Morrisville:18
+Westminster (PA):7:Grove City:20
+Nazareth:22:Utica:3
+Dubuque:25:Monmouth (IL):4
+Rensselaer:7:RIT:14
+Alfred:28:Russell Sage:7
+Denison:13:Kenyon:14
+Hiram:4:Oberlin:26
+Wentworth:11:Gordon:10
+Coast Guard:16:Wheaton (MA):5
+Chris. Newport:14:Lynchburg:13
+Bethany (WV):4:Franciscan:12
+Washington Col.:9:Muhlenberg:12
+Centenary (LA):16:Mt. St. Joseph:10
+MCLA:17:Wells:8
+Berry:8:Birmingham-So.:10
+SUNY Delhi:7:Husson:2
+Centre:20:Hendrix:6
+SUNY Poly:14:Thomas (ME):6
+Cobleskill St.:6:Maine Maritime:24
+St. John Fisher:11:St. Lawrence:20
+DeSales:10:Stevens:20
+Cazenovia:6:NVU-Lyndon:11
+Sewanee:9:Rhodes:8
+Southwestern (TX):15:Albion:25
+Benedictine (IL):8:Dubuque:16
+Warren Wilson:8:Shorter:23
+Marywood:7:SUNY Morrisville:14
+Gordon:8:Salve Regina:15
+McDaniel:20:Juniata:3
+Farmingdale St.:23:Keystone:4
+Saint Joseph (CT):5:Dean:14
+St. Joseph's (ME):8:Rivier:13
+St. Lawrence:19:Plattsburgh St.:4
+Regis (MA):2:Emmanuel (MA):18
+Mitchell:0:JWU (Providence):15
+Curry:6:Western New Eng.:17
+Roger Williams:9:Nichols:8
+Norwich:15:Anna Maria:5
+Southern Va.:9:Greensboro:8
+Mass. Maritime:8:Keene St.:21
+Cortland:10:Nazareth:13
+Babson:23:UMass Boston:12
+U New England:5:Wentworth:13
+Ithaca:14:Scranton:8
+Lycoming:12:Delaware Valley:10
+Augustana (IL):4:Elmhurst:18
+Brevard:6:Piedmont:24
+SUNY Potsdam:14:SUNY Poly:7
+Hartford:20:Salem St.:4
+Eastern:23:Messiah:13
+Chatham:12:Bethany (WV):5
+Concordia Wisconsin:21:Edgewood:5
+FDU-Florham:16:King's (PA):9
+Capital:18:Marietta:6
+Marymount (VA):16:Gwynedd Mercy:17
+Manhattanville:15:SUNY Delhi:14
+Hamilton:7:Middlebury:14
+Cabrini:23:Neumann:6
+Montclair St.:10:Endicott:16
+Russell Sage:9:Utica:14
+St. Joseph's (L.I.):13:CMSV:12
+Lebanon Valley:16:Alvernia:7
+WestConn:11:Skidmore:14
+Kean:11:Clark (MA):8
+Purchase:5:Mt. St. Mary (NY):15
+Wesleyan (CT):17:Amherst:13
+Williams:11:Tufts:14
+Widener:15:Hood:7
+Adrian:5:Ohio Wesleyan:15
+Bates:9:Bowdoin:22
+Connecticut Col.:10:Trinity (CT):12
+Stevens:25:Wilkes:2
+Grove City:26:Franciscan:6
+Lynchburg:18:Shenandoah:7
+Aurora:18:IIT:6
+Gettysburg:9:York (PA):8
+MSOE:10:Marian (WI):6
+Colby:12:MIT:10
+Randolph:5:Va. Wesleyan:26
+Misericordia:13:Arcadia:16
+Guilford:21:Averett:5
+Concordia Chicago:2:Beloit:7
+St. John Fisher:26:Keuka:2
+Allegheny:10:Westminster (PA):13
+Wheaton (MA):9:Eastern Conn. St.:12
+Albright:5:Stevenson:32
+Hampden-Sydney:15:Bridgewater (VA):5
+North Central (IL):13:Albion:22
+Centenary (NJ):4:Marywood:25
+Castleton:8:Norwich:9
+Earlham:12:Mt. St. Joseph:16
+Randolph-Macon:7:Wash. & Lee:22
+John Carroll:13:Capital:5
+Mount Union:11:Heidelberg:1
+Otterbein:13:Muskingum:8
+Carroll (WI):4:Transylvania:18
+Nazareth:11:Alfred:13
+Wilmington (OH):0:Baldwin Wallace:25
+Centenary (LA):5:Whittier:20
+Regis (MA):2:Saint Joseph (CT):9
+Piedmont:19:Huntingdon:10
+Anna Maria:2:Montclair St.:26
+SUNY Maritime:11:Salve Regina:8
+Wittenberg:17:Hiram:1
+Hendrix:4:Birmingham-So.:23
+Rivier:8:Lasell:10
+SUNY Geneseo:21:Plattsburgh St.:11
+JWU (Providence):6:Emmanuel (MA):13
+Merchant Marine:15:Farmingdale St.:8
+Oglethorpe:3:Centre:16
+Thomas (ME):14:Husson:15
+Albion:22:Calvin:9
+Cortland:18:SUNY New Paltz:10
+Washington Col.:12:Dickinson:15
+Juniata:1:Catholic:23
+IIT:12:Edgewood:8
+Amherst:16:Colby:12
+MCLA:4:SUNY Delhi:10
+Endicott:21:Roger Williams:13
+Adrian:19:Kalamazoo:9
+Rhodes:13:Southwestern (TX):12
+Ohio Northern:15:Marietta:6
+Dean:16:Albertus Magnus:5
+Castleton:11:Salem St.:4
+Wentworth:10:Western New Eng.:11
+Trine:15:Alma:7
+Roanoke:11:Lynchburg:14
+Cobleskill St.:21:Centenary (NJ):4
+Manhattanville:9:SUNY Maritime:17
+North Central (IL):17:Elmhurst:11
+Methodist:20:LaGrange:21
+SUNY Poly:16:Cazenovia:1
+Susquehanna:8:Elizabethtown:19
+Emerson:13:Springfield:24
+Anderson (IN):19:Spalding:4
+Benedictine (IL):10:Concordia Wisconsin:11
+Eastern Conn. St.:5:Plymouth St.:14
+Berry:7:Sewanee:11
+Denison:8:York (PA):16
+Haverford:14:Ursinus:9
+Muhlenberg:7:McDaniel:6
+St. Mary's (MD):17:Hilbert:6
+Skidmore:8:St. Lawrence:13
+Keuka:4:Hartwick:20
+Earlham:1:Hanover:18
+Tufts:15:Connecticut Col.:14
+Whittier:6:Colorado Col.:14
+Cornell College:16:Northland:12
+Shenandoah:10:Guilford:9
+Hamilton:15:Bates:6
+Wesleyan (CT):15:Middlebury:19
+Stockton:19:Mary Washington:14
+Williams:11:Babson:10
+Wheaton (MA):5:MIT:17
+Drew:4:Goucher:12
+Oberlin:20:Wabash:5
+DePauw:3:Kenyon:11
+Scranton:18:Moravian:8
+Bridgewater (VA):25:Averett:7
+Mass. Maritime:15:UMass Boston:17
+Augustana (IL):4:Ill. Wesleyan:22
+RIT:13:Union (NY):10
+Norwich:12:St. Joseph's (ME):16
+Monmouth (IL):1:Northwestern-St. Paul:18
+Greensboro:12:Brevard:7
+Lake Forest:16:Dubuque:14
+Eastern Nazarene:18:Mitchell:11
+Concordia Chicago:3:MSOE:24
+Clarkson:11:Rensselaer:14
+Chris. Newport:8:Salisbury:16
+SUNY Oneonta:8:Oswego St.:11
+Bowdoin:20:Trinity (CT):15
+Utica:4:St. John Fisher:18
+Penn College:10:Kean:17
+Keene St.:19:Southern Me.:10
+Swarthmore:12:Gettysburg:11
+Transylvania:15:Carthage:14
+SUNY Brockport:10:SUNY Potsdam:9
+Aurora:21:Marian (WI):7
+Vassar:11:Ithaca:13
+Randolph-Macon:29:Ferrum:3
+Russell Sage:20:Medaille:4
+Clark (MA):10:Coast Guard:7
+Nichols:10:U New England:8
+Hampden-Sydney:20:Va. Wesleyan:3
+New England Col.:5:Maine Maritime:20
+Centenary (LA):3:Colorado Col.:22
+Ohio Northern:25:Wilmington (OH):1
+Southern Va.:9:Pfeiffer:11
+Emerson:20:Emmanuel (MA):9
+Wooster:7:Ohio Wesleyan:11
+Castleton:6:Keene St.:19
+MSOE:12:Edgewood:8
+CMSV:9:Purchase:14
+Merchant Marine:16:Manhattanville:11
+Warren Wilson:1:William Peace:28
+Hanover:19:Mt. St. Joseph:6
+Albertus Magnus:4:Lasell:28
+Oberlin:6:Denison:19
+Dean:11:JWU (Providence):12
+Benedictine (IL):25:Concordia Chicago:6
+Marian (WI):17:Concordia Wisconsin:18
+Southern Me.:9:UMass Boston:25
+Wabash:5:DePauw:15
+SUNY Maritime:16:St. Joseph's (L.I.):6
+Plymouth St.:19:Salem St.:0
+Mt. St. Mary (NY):5:Farmingdale St.:16
+WestConn:12:Eastern Conn. St.:10
+Hood:8:Stevenson:23
+Kenyon:19:Wittenberg:8
+Cairn:9:Keystone:8
+Saint Vincent:10:Westminster (PA):5
+Calvin:17:Trine:5
+Goucher:5:Catholic:13
+Averett:15:Randolph:4
+U New England:4:Endicott:26
+Bowdoin:22:Colby:16
+Mitchell:2:New England Col.:24
+Hope:12:Albion:21
+Rivier:20:Regis (MA):4
+Susquehanna:16:Juniata:6
+Otterbein:3:John Carroll:22
+Gwynedd Mercy:10:Marywood:8
+Keuka:10:Hilbert:4
+Greensboro:11:Methodist:16
+Muskingum:5:Mount Union:10
+Baldwin Wallace:20:Heidelberg:3
+Connecticut Col.:11:Amherst:15
+Springfield:12:Western New Eng.:13
+Cabrini:29:Centenary (NJ):1
+Dickinson:20:McDaniel:7
+Elizabethtown:25:Moravian:5
+Middlebury:11:St. Lawrence:10
+Va. Wesleyan:3:Randolph-Macon:22
+Hartwick:14:Utica:3
+Eastern:21:Lebanon Valley:11
+Nazareth:30:Medaille:0
+Bryn Athyn:5:Rosemont:17
+Hamilton:14:Williams:9
+Beloit:1:Aurora:31
+Union (NY):12:Skidmore:7
+Ithaca:13:RIT:22
+Trinity (CT):16:Wesleyan (CT):15
+Delaware Valley:12:FDU-Florham:13
+Bates:7:Tufts:20
+Neumann:9:Immaculata:10
+Guilford:5:Hampden-Sydney:23
+Wilkes:3:Lycoming:6
+Salve Regina:16:Wentworth:11
+Bridgewater (VA):11:Shenandoah:8
+Gettysburg:15:Franklin & Marshall:7
+Alvernia:1:York (PA):19
+Arcadia:9:Stevens:29
+Albright:7:Widener:25
+Alma:6:Adrian:18
+Misericordia:15:DeSales:16
+Ursinus:8:Muhlenberg:18
+Bethany (WV):6:Allegheny:19
+Stockton:14:Kean:12
+Nichols:11:Curry:4
+Drew:8:Scranton:24
+Franciscan:7:Thiel:12
+Ferrum:2:Roanoke:29
+Roger Williams:14:Gordon:10
+Washington Col.:13:Swarthmore:14
+St. John Fisher:18:Alfred:9
+Salem St.:12:Eastern Nazarene:13
+Augustana (IL):6:MSOE:9
+Plymouth St.:13:Mass. Maritime:12
+Birmingham-So.:4:Rhodes:10
+Husson:27:Cazenovia:8
+SUNY Geneseo:15:SUNY Potsdam:2
+NVU-Lyndon:1:SUNY Delhi:20
+Babson:16:Emerson:9
+Farmingdale St.:5:SUNY Maritime:14
+Saint Joseph (CT):15:St. Joseph's (ME):16
+Thomas (ME):17:Cobleskill St.:12
+Maine Maritime:14:SUNY Poly:11
+Ohio Wesleyan:5:Denison:11
+Brevard:3:Methodist:26
+Heidelberg:4:Otterbein:22
+Albertus Magnus:10:Norwich:17
+Marian (WI):8:IIT:17
+Adrian:10:Calvin:7
+Oswego St.:10:SUNY New Paltz:6
+Ferrum:4:Hampden-Sydney:25
+Whittier:5:Westminster (UT):21
+UMass Boston:8:Keene St.:15
+RIT:15:Clarkson:8
+Wells:12:La Roche:11
+Rivier:19:JWU (Providence):6
+DeSales:18:Delaware Valley:4
+Lynchburg:9:Randolph-Macon:13
+Pfeiffer:13:Piedmont:15
+Centenary (LA):3:Southwestern (TX):29
+Lasell:17:Regis (MA):2
+Elizabethtown:32:Juniata:6
+Northland:7:Northwestern-St. Paul:5
+Eastern Conn. St.:19:Castleton:9
+Kalamazoo:14:Alma:13
+Endicott:14:Nichols:7
+Cairn:7:Bryn Athyn:4
+Emmanuel (MA):18:Anna Maria:4
+Marietta:3:John Carroll:20
+Hanover:12:Anderson (IN):7
+William Peace:7:Southern Va.:15
+Mary Washington:17:Kean:14
+Muskingum:5:Ohio Northern:14
+CMSV:5:Merchant Marine:21
+Swarthmore:4:Dickinson:17
+Mt. St. Joseph:20:Spalding:12
+Concordia Wisconsin:14:Concordia Chicago:6
+Edgewood:6:Aurora:28
+Purchase:8:St. Joseph's (L.I.):7
+Salve Regina:18:Curry:7
+Lake Forest:23:Monmouth (IL):5
+Beloit:1:Benedictine (IL):19
+Thiel:8:Westminster (PA):20
+Carroll (WI):3:Augustana (IL):12
+Alvernia:4:Hood:13
+SUNY Brockport:7:Cortland:17
+Kenyon:28:Hiram:0
+Montclair St.:23:Wilkes:4
+Roanoke:26:Bridgewater (VA):11
+Randolph:2:Shenandoah:19
+Marywood:7:Marymount (VA):13
+Colby:12:Middlebury:22
+Ursinus:16:Franklin & Marshall:18
+King's (PA):4:Stevens:25
+Arcadia:19:Lycoming:7
+Tufts:25:Wesleyan (CT):16
+Gwynedd Mercy:16:Neumann:11
+Wabash:4:Wooster:23
+Catholic:20:Drew:11
+Hilbert:2:Penn College:15
+DePauw:9:Oberlin:21
+SUNY Morrisville:5:St. Mary's (MD):17
+Trine:2:Hope:19
+Stevenson:24:Widener:11
+Trinity (CT):12:Hamilton:11
+Eastern Nazarene:6:New England Col.:23
+Wash. & Lee:31:Averett:1
+Plattsburgh St.:9:SUNY Oneonta:17
+Moravian:11:Susquehanna:16
+WestConn:22:Southern Me.:4
+Mount Union:24:Wilmington (OH):5
+Chris. Newport:25:Stockton:8
+Carthage:21:MSOE:12
+Capital:3:Baldwin Wallace:8
+Goucher:8:Scranton:19
+North Central (IL):13:Transylvania:7
+MCLA:6:SUNY Canton:21
+Bates:6:Connecticut Col.:17
+Guilford:22:Va. Wesleyan:13
+York (PA):15:Eastern:11
+Messiah:20:Lebanon Valley:15
+Centre:17:Sewanee:15
+Ill. Wesleyan:18:Elmhurst:15
+Immaculata:3:Cabrini:27
+St. Lawrence:17:Vassar:12
+Amherst:10:Williams:11
+Ithaca:11:Skidmore:12
+Hartwick:9:St. John Fisher:22
+Keystone:13:Rosemont:31
+Huntingdon:11:Greensboro:8
+Chatham:4:Grove City:16
+Rensselaer:9:Union (NY):5
+U New England:8:Roger Williams:15
+Medaille:1:Utica:25
+McDaniel:12:Haverford:15
+Russell Sage:4:Nazareth:28
+MIT:24:Coast Guard:16
+Gettysburg:15:Muhlenberg:13
+Salisbury:23:Washington Col.:9
+Alfred:20:Keuka:8
+Gordon:4:Western New Eng.:24
+Clark (MA):13:Wheaton (MA):7
+Saint Vincent:15:Allegheny:3
+Rhodes:11:Hendrix:7
+Thomas (ME):9:SUNY Delhi:14
+Husson:12:SUNY Poly:20
+Maine Maritime:28:Cazenovia:5
+Oglethorpe:3:Berry:18
+Manhattanville:7:Mt. St. Mary (NY):15
+FDU-Florham:4:Misericordia:20
+NVU-Lyndon:5:Cobleskill St.:21
+Babson:15:Middlebury:18
+Hanover:8:Concordia Wisconsin:18
+Dubuque:20:Cornell College:5
+Rivier:8:Dean:5
+MIT:8:Williams:16
+Albion:23:Trine:15
+Calvin:11:Kalamazoo:12
+Emmanuel (MA):14:Albertus Magnus:2
+Stevenson:14:Messiah:9
+Wentworth:6:Nichols:16
+Western New Eng.:15:Salve Regina:12
+Spalding:9:Earlham:12
+Hope:15:Adrian:9
+Gordon:6:U New England:13
+Endicott:13:Curry:8
+Saint Vincent:14:Bethany (WV):1
+JWU (Providence):9:Saint Joseph (CT):11
+Anna Maria:8:St. Joseph's (ME):20
+Thomas (ME):0:Colby:26
+Emerson:9:Bowdoin:26
+Wash. & Lee:16:Roanoke:12
+Hamilton:16:SUNY Oneonta:9
+Lasell:9:Norwich:10
+Bryn Athyn:13:Keystone:8
+Carthage:23:Augustana (IL):6
+Heidelberg:2:Capital:28
+Mt. St. Mary (NY):5:Merchant Marine:13
+Mitchell:8:Eastern Nazarene:14
+Hampden-Sydney:23:Randolph:2
+Centenary (NJ):3:Gwynedd Mercy:24
+St. Joseph's (L.I.):7:Manhattanville:19
+Hartford:16:Regis (MA):2
+Husson:12:Maine Maritime:31
+Farmingdale St.:23:CMSV:4
+Greensboro:9:William Peace:14
+Otterbein:11:Marietta:9
+MCLA:3:Cobleskill St.:10
+La Roche:0:Medaille:15
+Denison:17:DePauw:3
+IIT:18:Concordia Chicago:5
+Purchase:2:SUNY Maritime:15
+Mt. St. Joseph:5:Anderson (IN):21
+John Carroll:25:Mount Union:6
+RIT:14:SUNY Geneseo:4
+York (PA):26:Albright:6
+Piedmont:14:LaGrange:5
+Franciscan:18:Hilbert:4
+Rosemont:11:Cairn:9
+Lycoming:9:King's (PA):7
+Carroll (WI):2:North Central (IL):25
+Dickinson:12:Gettysburg:7
+Swarthmore:15:Ursinus:10
+Ithaca:7:Cortland:13
+Wittenberg:11:Wabash:10
+Castleton:9:Plymouth St.:16
+Salem St.:5:Southern Me.:22
+Widener:15:Alvernia:6
+New England Col.:6:Wheaton (MA):15
+SUNY Canton:9:SUNY Poly:18
+Wooster:4:Kenyon:12
+St. John Fisher:8:Union (NY):9
+Aurora:21:Benedictine (IL):6
+Skidmore:20:Clark (MA):10
+Marywood:7:Immaculata:6
+Lebanon Valley:9:Hood:12
+Colorado Col.:12:CSU Pueblo:6
+Misericordia:20:Wilkes:7
+UMass Boston:13:WestConn:18
+Wesleyan (CT):19:Springfield:6
+Edgewood:15:Marian (WI):9
+Marymount (VA):12:Neumann:10
+Delaware Valley:7:Arcadia:22
+Clarkson:14:St. Lawrence:9
+Stockton:16:Montclair St.:15
+Franklin & Marshall:13:Washington Col.:11
+Baldwin Wallace:9:Ohio Northern:5
+FDU-Florham:7:DeSales:18
+Allegheny:8:Chatham:4
+Muhlenberg:5:Haverford:9
+Wilmington (OH):7:Muskingum:16
+Methodist:9:Pfeiffer:18
+Beloit:4:MSOE:16
+Oswego St.:5:Alfred:13
+Mass. Maritime:18:Eastern Conn. St.:7
+Alma:6:Calvin:16
+Adrian:9:Albion:26
+Dean:13:Anna Maria:6
+Hanover:21:Spalding:8
+Cabrini:7:Salisbury:14
+Hartwick:8:Nazareth:13
+JWU (Providence):8:St. Joseph's (ME):11
+Eastern:6:Stevenson:21
+Wash. & Lee:20:Grove City:10
+DePauw:18:Hiram:3
+Mount Union:7:Otterbein:12
+Manhattanville:11:Farmingdale St.:18
+Ohio Northern:5:Capital:13
+Coast Guard:3:Springfield:17
+SUNY Potsdam:12:SUNY New Paltz:14
+Haverford:5:Dickinson:18
+Scranton:10:Catholic:8
+St. Mary's (MD):29:Wells:3
+Western New Eng.:7:Endicott:16
+Concordia Chicago:6:Edgewood:22
+SUNY Morrisville:32:La Roche:0
+Merchant Marine:18:Purchase:4
+SUNY Poly:9:SUNY Delhi:5
+IIT:11:Beloit:1
+Keystone:10:Cairn:18
+SUNY Maritime:22:CMSV:8
+Regis (MA):9:Albertus Magnus:10
+Northwestern-St. Paul:4:Dubuque:13
+New England Col.:22:Mitchell:4
+Randolph:1:Wash. & Lee:26
+Rosemont:13:Bryn Athyn:10
+Husson:15:MCLA:10
+Muskingum:3:John Carroll:17
+Neumann:11:Marywood:10
+U New England:10:Salve Regina:13
+Curry:8:Clark (MA):11
+Delaware Valley:7:Misericordia:18
+SUNY Geneseo:15:Oswego St.:5
+Hampden-Sydney:20:Roanoke:11
+Keene St.:17:Salem St.:4
+Berry:12:Birmingham-So.:15
+Alfred:27:Medaille:3
+Hendrix:7:Rhodes:18
+Saint Joseph (CT):8:Norwich:6
+Lasell:7:Emmanuel (MA):6
+Union (NY):10:Ithaca:9
+WestConn:11:Mass. Maritime:12
+Southern Me.:15:Castleton:12
+LaGrange:8:Pfeiffer:24
+Muhlenberg:13:Franklin & Marshall:7
+Chris. Newport:27:Mary Washington:13
+Penn College:8:Montclair St.:21
+Transylvania:9:Ill. Wesleyan:19
+Grove City:15:Allegheny:6
+Southern Va.:26:Brevard:6
+Monmouth (IL):6:Northland:17
+Plattsburgh St.:7:SUNY Brockport:12
+Stevens:19:Lycoming:3
+St. John Fisher:30:Russell Sage:7
+Elmhurst:21:Carroll (WI):1
+Ferrum:4:Shenandoah:19
+Cabrini:19:Marymount (VA):6
+Aurora:26:Concordia Wisconsin:7
+Williams:10:Wesleyan (CT):9
+Wilkes:12:FDU-Florham:11
+Hamilton:12:Tufts:22
+Susquehanna:21:Goucher:5
+Juniata:8:Moravian:23
+Kalamazoo:5:Hope:20
+Rensselaer:13:St. Lawrence:7
+Vassar:10:Clarkson:16
+Drew:8:Elizabethtown:24
+Cornell College:7:Lake Forest:12
+Randolph-Macon:31:Averett:3
+Eastern Conn. St.:9:UMass Boston:23
+Ursinus:16:Washington Col.:12
+Cortland:17:SUNY Oneonta:8
+King's (PA):8:DeSales:20
+MSOE:7:Benedictine (IL):8
+Carthage:8:North Central (IL):14
+Utica:9:Keuka:8
+Wilmington (OH):6:Heidelberg:7
+Arcadia:13:Stockton:17
+Va. Wesleyan:2:Lynchburg:24
+Westminster (PA):19:Bethany (WV):6
+Oberlin:6:Ohio Wesleyan:10
+Connecticut Col.:9:Bowdoin:13
+Skidmore:8:RIT:21
+Thomas (ME):9:SUNY Canton:16
+Hood:14:Albright:12
+Marietta:5:Baldwin Wallace:14
+Bridgewater (VA):14:Guilford:7
+Middlebury:17:Amherst:11
+Centenary (NJ):2:Immaculata:26
+William Peace:19:Huntingdon:14
+Kenyon:26:Wabash:4
+Roger Williams:12:Wentworth:7
+Maine Maritime:29:NVU-Lyndon:2
+Wittenberg:16:Wooster:13
+McDaniel:11:Swarthmore:24
+Wheaton (MA):8:Babson:25
+Emerson:9:MIT:20
+Anderson (IN):15:Earlham:3
+Franciscan:5:Chatham:12
+Nichols:11:Gordon:10
+Colby:11:Trinity (CT):15
+Lebanon Valley:5:York (PA):22
+Albion:13:Denison:21
+Augustana (IL):5:Transylvania:21
+Kean:7:Salisbury:21
+Thiel:3:Saint Vincent:28
+Messiah:9:Widener:12
+Norwich:10:Dean:14
+New England Col.:6:Emmanuel (MA):20
+DePauw:7:Wittenberg:9
+JWU (Providence):6:Lasell:10
+Farmingdale St.:20:Purchase:4
+CMSV:8:Manhattanville:23
+Mass. Maritime:24:Salem St.:4
+Ithaca:14:St. John Fisher:16
+Benedictine (IL):7:IIT:14
+Denison:26:Hiram:3
+Plymouth St.:16:Southern Me.:9
+UMass Boston:25:Castleton:7
+Concordia Chicago:1:Aurora:27
+Wabash:5:Ohio Wesleyan:25
+Albertus Magnus:4:Saint Joseph (CT):20
+Kenyon:15:Oberlin:12
+Marian (WI):16:Beloit:2
+Chatham:6:Westminster (PA):17
+St. Joseph's (ME):18:Regis (MA):4
+Keene St.:17:WestConn:18
+Anna Maria:6:Rivier:19
+SUNY Maritime:12:Mt. St. Mary (NY):6
+Maine Maritime:23:Thomas (ME):6
+Alvernia:1:Eastern:23
+New England Col.:16:Eastern Nazarene:7
+Gordon:2:Endicott:18
+Otterbein:9:Ohio Northern:13
+Albion:27:Kalamazoo:5
+Albright:10:Lebanon Valley:20
+Nichols:5:Western New Eng.:20
+Heidelberg:2:John Carroll:30
+SUNY Brockport:5:SUNY Geneseo:18
+Lycoming:2:Misericordia:17
+Marietta:9:Muskingum:13
+Dubuque:14:Edgewood:5
+Gwynedd Mercy:9:Cabrini:27
+Salve Regina:15:Roger Williams:10
+Bryn Athyn:7:Cairn:9
+SUNY Potsdam:11:Plattsburgh St.:10
+Ill. Wesleyan:15:North Central (IL):14
+Oswego St.:5:Cortland:22
+Mary Washington:9:St. Mary's (MD):10
+Medaille:3:Keuka:20
+Franciscan:7:Saint Vincent:26
+Randolph:10:Ferrum:8
+SUNY New Paltz:14:SUNY Oneonta:13
+Colby:15:Bates:11
+Lynchburg:24:Guilford:5
+Middlebury:14:Williams:8
+Bethany (WV):5:Grove City:19
+NVU-Lyndon:4:MCLA:23
+Neumann:29:Centenary (NJ):4
+Amherst:16:Trinity (CT):10
+Messiah:14:Hood:10
+Cobleskill St.:5:SUNY Canton:15
+Keystone:8:Rosemont:21
+DeSales:21:Wilkes:1
+Curry:11:Wentworth:10
+Va. Wesleyan:9:Bridgewater (VA):21
+Immaculata:5:Marymount (VA):10
+Carroll (WI):2:Carthage:21
+Trine:5:Adrian:13
+Capital:25:Wilmington (OH):6
+Muhlenberg:12:Stockton:10
+Shenandoah:6:Wash. & Lee:25
+Hope:24:Alma:4
+York (PA):13:Stevenson:6
+Wesleyan (CT):10:Connecticut Col.:14
+Baldwin Wallace:16:Mount Union:7
+Tufts:19:Bowdoin:15
+King's (PA):5:Arcadia:21
+Montclair St.:12:Kean:8
+Catholic:6:Salisbury:18
+Stevens:22:Delaware Valley:7
+Concordia Wisconsin:14:MSOE:13
+Denison:14:Wooster:4
+Hiram:2:Ohio Wesleyan:27
+Castleton:11:Mass. Maritime:26
+Bridgewater (VA):8:Randolph-Macon:21
+Anderson (IN):1:Colorado Col.:22
+Saint Vincent:10:Chatham:8
+Alma:8:Albion:28
+Dean:15:St. Joseph's (ME):9
+Birmingham-So.:16:Centre:17
+Rhodes:7:Sewanee:10
+Dubuque:17:Northland:4
+Southern Me.:8:Eastern Conn. St.:19
+Salem St.:5:WestConn:19
+Keene St.:8:Plymouth St.:9
+Franklin & Marshall:20:McDaniel:5
+Westminster (PA):15:Penn College:6
+Calvin:9:Hope:17
+Southwestern (TX):14:Hanover:4
+Wabash:2:Denison:29
+Huntingdon:9:Methodist:18
+Keuka:11:Russell Sage:15
+Utica:7:Alfred:18
+Cortland:20:Plattsburgh St.:9
+Oberlin:18:Wittenberg:10
+Concordia Wisconsin:7:IIT:11
+Hood:8:Eastern:21
+Kalamazoo:15:Trine:8
+Catholic:9:Elizabethtown:18
+Guilford:17:Randolph:5
+Purchase:8:Manhattanville:14
+Scranton:12:Susquehanna:9
+Medaille:2:Hartwick:25
+SUNY Canton:9:Maine Maritime:17
+LaGrange:17:William Peace:15
+Albright:6:Messiah:13
+Keystone:6:Bryn Athyn:17
+Hampden-Sydney:2:Lynchburg:14
+Ohio Wesleyan:20:DePauw:6
+Coast Guard:12:Emerson:8
+Springfield:11:Clark (MA):10
+SUNY Oneonta:6:SUNY Geneseo:12
+Piedmont:10:Southern Va.:13
+U New England:9:Western New Eng.:24
+Cobleskill St.:8:SUNY Poly:10
+Nichols:6:Roger Williams:4
+Wentworth:9:Salve Regina:17
+Immaculata:7:Marywood:2
+Otterbein:3:Ohio Northern:10
+Neumann:5:Marymount (VA):14
+Norwich:5:Emmanuel (MA):16
+Saint Joseph (CT):8:Rivier:6
+Bowdoin:16:Amherst:18
+Eastern Nazarene:5:New England Col.:17
+Connecticut Col.:6:Tufts:20
+Trinity (CT):8:Williams:10
+JWU (Providence):5:Lasell:13
+Mount Union:13:Capital:14
+Hamilton:13:Middlebury:14
+CMSV:9:Mt. St. Mary (NY):16
+Cornell College:17:Monmouth (IL):7
+Hilbert:2:SUNY Morrisville:19
+Bethany (WV):5:Thiel:8
+St. Lawrence:15:RIT:21
+Wilkes:11:King's (PA):9
+Salisbury:23:Mary Washington:10
+Washington Col.:13:Gettysburg:26
+Widener:8:York (PA):22
+NVU-Lyndon:5:Husson:22
+MIT:14:Babson:15
+Clarkson:9:Skidmore:10
+Lycoming:12:FDU-Florham:18
+Wells:5:Penn College:26
+Shenandoah:22:Va. Wesleyan:10
+Goucher:5:Moravian:8
+Oswego St.:13:SUNY Potsdam:12
+Carthage:18:Ill. Wesleyan:19
+Arcadia:15:DeSales:20
+North Central (IL):15:Augustana (IL):4
+Nazareth:9:St. John Fisher:17
+Elmhurst:12:Transylvania:16
+Misericordia:8:Stevens:25
+Hiram:5:Wooster:24
+Drew:19:Juniata:5
+Stevenson:24:Alvernia:2
+Ithaca:9:Rensselaer:14
+SUNY New Paltz:8:SUNY Brockport:7
+MCLA:12:Thomas (ME):14
+MSOE:4:Aurora:16
+Benedictine (IL):15:Marian (WI):6
+Northwestern-St. Paul:3:Lake Forest:11
+Cairn:12:Rosemont:15
+Union (NY):14:Vassar:9
+Dickinson:15:Ursinus:10
+Edgewood:12:Beloit:5
+La Roche:0:St. Mary's (MD):29
+Swarthmore:14:Haverford:13
+Allegheny:17:Franciscan:9
+Brevard:19:Warren Wilson:5
+Kean:5:Chris. Newport:20
+Averett:9:Ferrum:17
+Colorado Col.:23:Southwestern (TX):7
+Shenandoah:16:Bridgewater (VA):10
+Sewanee:9:Centre:10
+FDU-Florham:5:Misericordia:19
+Messiah:12:Widener:18
+SUNY Canton:16:NVU-Lyndon:0
+Saint Joseph (CT):10:Lasell:9
+Shenandoah:8:Wash. & Lee:22
+Roanoke:12:Randolph-Macon:10
+Mary Washington:14:Montclair St.:18
+Mass. Maritime:12:Keene St.:22
+Concordia Wisconsin:10:IIT:12
+Coast Guard:18:Clark (MA):5
+Mt. St. Mary (NY):4:SUNY Maritime:24
+Farmingdale St.:9:Merchant Marine:11
+Eastern Conn. St.:3:Plymouth St.:18
+William Peace:3:Piedmont:15
+Kean:15:Stockton:14
+Dean:9:Emmanuel (MA):10
+Franklin & Marshall:9:Muhlenberg:8
+St. Lawrence:10:Clarkson:9
+Methodist:24:LaGrange:16
+Nichols:3:Endicott:18
+Arcadia:10:DeSales:16
+Salve Regina:11:Western New Eng.:23
+Widener:9:York (PA):23
+Immaculata:4:Cabrini:23
+Capital:7:John Carroll:16
+Ohio Northern:6:Baldwin Wallace:10
+Nazareth:20:Alfred:5
+Catholic:4:Scranton:13
+SUNY New Paltz:3:SUNY Geneseo:21
+Oswego St.:10:Cortland:20
+Susquehanna:5:Elizabethtown:10
+Cornell College:4:Lake Forest:18
+Adrian:7:Hope:16
+Benedictine (IL):4:Aurora:20
+Marymount (VA):11:Gwynedd Mercy:10
+Misericordia:7:Stevens:27
+Hartwick:7:St. John Fisher:24
+Allegheny:10:Grove City:23
+Kalamazoo:10:Albion:22
+Penn College:1:SUNY Morrisville:18
+Hilbert:3:St. Mary's (MD):21
+Northwestern-St. Paul:10:Dubuque:18
+Westminster (PA):7:Saint Vincent:9
+Eastern:13:Stevenson:17
+Wash. & Lee:16:Hampden-Sydney:4
+Oberlin:6:Denison:18
+Ohio Wesleyan:10:Kenyon:12
+Coast Guard:14:Babson:15
+SUNY Delhi:9:SUNY Poly:6
+Keene St.:8:WestConn:13
+MIT:14:Springfield:8
+Carthage:9:Ill. Wesleyan:15
+Plymouth St.:11:UMass Boston:14
+Roanoke:10:Lynchburg:12
+Transylvania:14:North Central (IL):10
+Union (NY):13:Rensselaer:10
+Gettysburg:11:Swarthmore:12
+Husson:11:Maine Maritime:27
+Merchant Marine:15:SUNY Maritime:7
+Piedmont:10:Southern Va.:11
+Montclair St.:7:Salisbury:23
+Methodist:3:Pfeiffer:23
+Franklin & Marshall:11:Dickinson:19
+Kean:14:Chris. Newport:21
+St. Lawrence:9:RIT:19
+Williams:7:Middlebury:13
+MIT:14:Babson:15
+Saint Joseph (CT):8:Emmanuel (MA):16
+Scranton:13:Elizabethtown:12
+Marymount (VA):6:Cabrini:23
+John Carroll:6:Baldwin Wallace:5
+New England Col.:19:Rosemont:11
+Wash. & Lee:12:Lynchburg:11
+Transylvania:11:Ill. Wesleyan:14
+Cortland:7:SUNY Geneseo:13
+Hope:23:Albion:14
+IIT:4:Aurora:22
+Western New Eng.:18:Endicott:9
+Southern Va.:9:Pfeiffer:12
+Saint Vincent:3:Grove City:27
+UMass Boston:9:WestConn:14
+Nazareth:7:St. John Fisher:19
+SUNY Morrisville:10:St. Mary's (MD):17
+Stevenson:9:York (PA):14
+Dubuque:9:Lake Forest:10
+DeSales:15:Stevens:26
+Amherst:13:Tufts:20
+Middlebury:6:Tufts:19
+Union (NY):9:RIT:18
+Kenyon:13:Denison:14
+SUNY Delhi:9:Maine Maritime:18
+Chris. Newport:4:Salisbury:9
+Swarthmore:7:Dickinson:13
+Lake Forest:2:John Carroll:23
+Emmanuel (MA):12:Maine Maritime:7
+Merchant Marine:5:St. Mary's (MD):10
+WestConn:17:New England Col.:9
+Pfeiffer:9:Centre:11
+Aurora:10:Ill. Wesleyan:19
+Hope:9:Chris. Newport:17
+Scranton:9:Gettysburg:22
+Colorado Col.:10:Salisbury:18
+St. John Fisher:10:Lynchburg:11
+Gettysburg:12:Chris. Newport:17
+Western New Eng.:13:Union (NY):15
+WestConn:8:RIT:20
+Centre:10:Wash. & Lee:21
+SUNY Geneseo:11:Amherst:17
+John Carroll:3:Dickinson:19
+Stevens:20:Kenyon:11
+Ill. Wesleyan:10:Denison:15
+St. Mary's (MD):9:Middlebury:10
+Emmanuel (MA):5:Tufts:27
+Cabrini:9:York (PA):18
+Grove City:18:Swarthmore:17
+Babson:16:Williams:10
+York (PA):7:Tufts:22
+Lynchburg:14:Denison:8
+Stevens:10:Dickinson:12
+Grove City:10:Wash. & Lee:13
+Babson:9:RIT:20
+Middlebury:19:Union (NY):10
+Amherst:10:Salisbury:14
+Lynchburg:9:Tufts:17
+Dickinson:11:Chris. Newport:12
+Middlebury:6:RIT:16
+Wash. & Lee:9:Salisbury:12
+RIT:11:Tufts:15
+Chris. Newport:8:Salisbury:12
+Salisbury:17:Tufts:12

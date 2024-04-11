@@ -8,7 +8,7 @@ date = dt.datetime(2023, 1, 31)
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) ApplseWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 
-while date < dt.datetime(2023, 5, 29):
+while date < dt.datetime(2023, 5, 28):
     date += dt.timedelta(days=1)
     print(date.month, date.day, sep='/')
     
@@ -27,8 +27,7 @@ while date < dt.datetime(2023, 5, 29):
             list = soup.find_all('tr')[1:]
             with open('games.txt', 'a') as f:
                 for index, row in enumerate(list):
-                    # Your code here
-                    # Use the index and row variables to access each 'tr' element
+
                     if index % 5 == 0: 
                         teamA = row.find('a')
                         teamB = list[index+3].find('a')
