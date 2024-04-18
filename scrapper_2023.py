@@ -35,10 +35,10 @@ headers = {
 # See https://stats.ncaa.org/contests/livestream_scoreboards for appropriate date range
 
 # Start date
-date = dt.datetime(2024, 2, 1)
+date = dt.datetime(2023, 2, 2)
 
 # End date
-end_date = min(dt.datetime.today(), dt.datetime(2024, 6, 15))
+end_date = min(dt.datetime.today(), dt.datetime(2023, 6, 7))
 
 # List to store the results
 results = []
