@@ -13,6 +13,9 @@ WLax:
 - 4/24/2024 Muhlenberg @ Ursinus
   - Mules -180, -1.5, o/u 29.5
   - Mules win, 14-13 (-1) (27)
+- 4/27/2024 Muhlenberg @ Gettysburg
+  - Bullets -910, -17.5, o/u 24.5
+  - Bullets win, 20-3 (-17) (23)
 
 BB:
 - 4/19/2024 Muhlenberg @ Haverford
@@ -29,7 +32,17 @@ BB:
   - Mules win, 8-7 (+1) (15)
 - 4/24/2024 Muhlenberg @ Kings
   - Mules -160, -2.5, o/u 12.5
-  - Kings wins, 7-6 (+1), 13
+  - Kings wins, 7-6 (+1) (13)
+- 4/26/2024 Muhlenberg @ Ursinus
+  - Bears -160, -2.5, o/u 9.5
+  - Mules win, 3-2 (+1) (5)
+- 4/27/2024 Muhlenberg @ Washington
+  - Mules -130, -0.5, o/u 12.5
+  - Wash wins, 10-9 (+1) (19)
+- 4/27/2024 Muhlenberg @ Washington
+  - Mules -130, -0.5, o/u 12.5
+  - Wash wins, 7-5 (+2) (12)
+
 
 SB: 
 - 4/23/2024 Swarthmore @ Muhlenberg
@@ -38,3 +51,9 @@ SB:
 - 4/23/2024 Swarthmore @ Muhlenberg II
   - Swat -170, -1.5, o/u 8.5
   - Mules win, 6-2 (+4), (8)
+- 4/27/2024 McDaniel @ Muhlenberg
+  - Mules -160, -1.5, o/u 9.5
+  - Mules win, 14-13 (-1) (27)
+- 4/27/2024 Muhlenberg @ Washington
+  - Mules -160, -1.5, o/u 9.5
+  - Mules win, 7-1 (-6) (8)
