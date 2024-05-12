@@ -1,0 +1,116 @@
+{
+  "track": [],
+  "MLA": [
+    {
+      "date": "4/27/2024",
+      "away": "Ursinus",
+      "home": "Dickinson",
+      "awayML": "+475",
+      "homeML": "-625",
+      "awaySP": "+11.5",
+      "homeSP": "-11.5",
+      "aspreadOdds": "-110",
+      "hspreadOdds": "-110",
+      "ouOdds": "-110",
+      "ouLine": 23.5,
+      "ouPrint": "23.5",
+      "disclaimer": ""
+    }
+  ],
+  "WLA": [
+    {
+      "date": "4/27/2024",
+      "away": "Ursinus",
+      "home": "Dickinson",
+      "awayML": "+225",
+      "homeML": "-265",
+      "awaySP": "+6.5",
+      "homeSP": "-6.5",
+      "aspreadOdds": "-110",
+      "hspreadOdds": "-110",
+      "ouOdds": "-110",
+      "ouLine": 27.5,
+      "ouPrint": "27.5",
+      "disclaimer": ""
+    }
+  ],
+  "MBA": [
+    {
+      "date": "4/26/2024",
+      "away": "Dickinson",
+      "home": "Franklin & Marshall",
+      "awayML": "-140",
+      "homeML": "+125",
+      "awaySP": "-0.5 (Pick / ML)",
+      "homeSP": "+0.5 (Pick / ML)",
+      "aspreadOdds": "-140",
+      "hspreadOdds": "+125",
+      "ouOdds": "-110",
+      "ouLine": 11.5,
+      "ouPrint": "11.5",
+      "disclaimer": ""
+    },
+    {
+      "date": "4/27/2024",
+      "away": "Swarthmore",
+      "home": "Dickinson",
+      "awayML": "+120",
+      "homeML": "-135",
+      "awaySP": "+0.5 (Pick / ML)",
+      "homeSP": "-0.5 (Pick / ML)",
+      "aspreadOdds": "+120",
+      "hspreadOdds": "-135",
+      "ouOdds": "-110",
+      "ouLine": 11.5,
+      "ouPrint": "11.5",
+      "disclaimer": ""
+    },
+    {
+      "date": "4/27/2024",
+      "away": "Swarthmore",
+      "home": "Dickinson",
+      "awayML": "+120",
+      "homeML": "-135",
+      "awaySP": "+0.5 (Pick / ML)",
+      "homeSP": "-0.5 (Pick / ML)",
+      "aspreadOdds": "+120",
+      "hspreadOdds": "-135",
+      "ouOdds": "-110",
+      "ouLine": 11.5,
+      "ouPrint": "11.5",
+      "disclaimer": ""
+    }
+  ],
+  "WSB": [
+    {
+      "date": "4/27/2024",
+      "away": "Washington Col.",
+      "home": "Dickinson",
+      "awayML": "-115",
+      "homeML": "-100",
+      "awaySP": "-0.5 (Pick / ML)",
+      "homeSP": "+0.5 (Pick / ML)",
+      "aspreadOdds": "-115",
+      "hspreadOdds": "-100",
+      "ouOdds": "-110",
+      "ouLine": 7.5,
+      "ouPrint": "7.5",
+      "disclaimer": ""
+    },
+    {
+      "date": "4/27/2024",
+      "away": "Washington Col.",
+      "home": "Dickinson",
+      "awayML": "-115",
+      "homeML": "-100",
+      "awaySP": "-0.5 (Pick / ML)",
+      "homeSP": "+0.5 (Pick / ML)",
+      "aspreadOdds": "-115",
+      "hspreadOdds": "-100",
+      "ouOdds": "-110",
+      "ouLine": 7.5,
+      "ouPrint": "7.5",
+      "disclaimer": ""
+    }
+  ]
+}

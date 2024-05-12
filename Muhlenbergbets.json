@@ -757,94 +757,17 @@
       "disclaimer": "Bets void if Williams, Shanice, does not compete in this event."
     }
   ],
-  "MLA": [
-    {
-      "date": "4/27/2024",
-      "away": "Muhlenberg",
-      "home": "Gettysburg",
-      "awayML": "+635",
-      "homeML": "-910",
-      "awaySP": "+17.5",
-      "homeSP": "-17.5",
-      "aspreadOdds": "-110",
-      "hspreadOdds": "-110",
-      "ouOdds": "-110",
-      "ouLine": 24.5,
-      "ouPrint": "24.5",
-      "disclaimer": ""
-    }
-  ],
-  "WLA": [
-    {
-      "date": "4/27/2024",
-      "away": "Muhlenberg",
-      "home": "Gettysburg",
-      "awayML": "+635",
-      "homeML": "-910",
-      "awaySP": "+17.5",
-      "homeSP": "-17.5",
-      "aspreadOdds": "-110",
-      "hspreadOdds": "-110",
-      "ouOdds": "-110",
-      "ouLine": 24.5,
-      "ouPrint": "24.5",
-      "disclaimer": ""
-    }
-  ],
+  "MLA": [],
+  "WLA": [],
   "MBA": [
-    {
-      "date": "4/26/2024",
-      "away": "Muhlenberg",
-      "home": "Ursinus",
-      "awayML": "+140",
-      "homeML": "-160",
-      "awaySP": "+2.5",
-      "homeSP": "-2.5",
-      "aspreadOdds": "-110",
-      "hspreadOdds": "-110",
-      "ouOdds": "-110",
-      "ouLine": 9.5,
-      "ouPrint": "9.5",
-      "disclaimer": ""
-    },
-    {
-      "date": "4/27/2024",
-      "away": "Muhlenberg",
-      "home": "Washington Col.",
-      "awayML": "-130",
-      "homeML": "+115",
-      "awaySP": "-0.5 (Pick / ML)",
-      "homeSP": "+0.5 (Pick / ML)",
-      "aspreadOdds": "-130",
-      "hspreadOdds": "+115",
-      "ouOdds": "-110",
-      "ouLine": 12.5,
-      "ouPrint": "12.5",
-      "disclaimer": ""
-    },
-    {
-      "date": "4/27/2024",
-      "away": "Muhlenberg",
-      "home": "Washington Col.",
-      "awayML": "-130",
-      "homeML": "+115",
-      "awaySP": "-0.5 (Pick / ML)",
-      "homeSP": "+0.5 (Pick / ML)",
-      "aspreadOdds": "-130",
-      "hspreadOdds": "+115",
-      "ouOdds": "-110",
-      "ouLine": 12.5,
-      "ouPrint": "12.5",
-      "disclaimer": ""
-    },
     {
       "date": "4/30/2024",
       "away": "Muhlenberg",
       "home": "DeSales",
-      "awayML": "+190",
-      "homeML": "-220",
-      "awaySP": "+8.5",
-      "homeSP": "-8.5",
+      "awayML": "+185",
+      "homeML": "-215",
+      "awaySP": "+7.5",
+      "homeSP": "-7.5",
       "aspreadOdds": "-110",
       "hspreadOdds": "-110",
       "ouOdds": "-110",
@@ -853,36 +776,5 @@
       "disclaimer": ""
     }
   ],
-  "WSB": [
-    {
-      "date": "4/27/2024",
-      "away": "McDaniel",
-      "home": "Muhlenberg",
-      "awayML": "+140",
-      "homeML": "-160",
-      "awaySP": "+1.5",
-      "homeSP": "-1.5",
-      "aspreadOdds": "-110",
-      "hspreadOdds": "-110",
-      "ouOdds": "-110",
-      "ouLine": 9.5,
-      "ouPrint": "9.5",
-      "disclaimer": ""
-    },
-    {
-      "date": "4/27/2024",
-      "away": "McDaniel",
-      "home": "Muhlenberg",
-      "awayML": "+140",
-      "homeML": "-160",
-      "awaySP": "+1.5",
-      "homeSP": "-1.5",
-      "aspreadOdds": "-110",
-      "hspreadOdds": "-110",
-      "ouOdds": "-110",
-      "ouLine": 9.5,
-      "ouPrint": "9.5",
-      "disclaimer": ""
-    }
-  ]
+  "WSB": []
 }

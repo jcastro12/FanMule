@@ -1,0 +1,116 @@
+{
+  "track": [],
+  "MLA": [
+    {
+      "date": "4/27/2024",
+      "away": "Moravian",
+      "home": "Scranton",
+      "awayML": "+715",
+      "homeML": "-1070",
+      "awaySP": "+17.5",
+      "homeSP": "-17.5",
+      "aspreadOdds": "-110",
+      "hspreadOdds": "-110",
+      "ouOdds": "-110",
+      "ouLine": 24.5,
+      "ouPrint": "24.5",
+      "disclaimer": ""
+    }
+  ],
+  "WLA": [
+    {
+      "date": "4/27/2024",
+      "away": "Scranton",
+      "home": "Moravian",
+      "awayML": "-250",
+      "homeML": "+215",
+      "awaySP": "-6.5",
+      "homeSP": "+6.5",
+      "aspreadOdds": "-110",
+      "hspreadOdds": "-110",
+      "ouOdds": "-110",
+      "ouLine": 24.5,
+      "ouPrint": "24.5",
+      "disclaimer": ""
+    }
+  ],
+  "MBA": [
+    {
+      "date": "4/27/2024",
+      "away": "Moravian",
+      "home": "Scranton",
+      "awayML": "+220",
+      "homeML": "-255",
+      "awaySP": "+9.5",
+      "homeSP": "-9.5",
+      "aspreadOdds": "-110",
+      "hspreadOdds": "-110",
+      "ouOdds": "-110",
+      "ouLine": 11.5,
+      "ouPrint": "11.5",
+      "disclaimer": ""
+    },
+    {
+      "date": "4/27/2024",
+      "away": "Moravian",
+      "home": "Scranton",
+      "awayML": "+220",
+      "homeML": "-255",
+      "awaySP": "+9.5",
+      "homeSP": "-9.5",
+      "aspreadOdds": "-110",
+      "hspreadOdds": "-110",
+      "ouOdds": "-110",
+      "ouLine": 11.5,
+      "ouPrint": "11.5",
+      "disclaimer": ""
+    },
+    {
+      "date": "4/28/2024",
+      "away": "Moravian",
+      "home": "Scranton",
+      "awayML": "+220",
+      "homeML": "-255",
+      "awaySP": "+9.5",
+      "homeSP": "-9.5",
+      "aspreadOdds": "-110",
+      "hspreadOdds": "-110",
+      "ouOdds": "-110",
+      "ouLine": 11.5,
+      "ouPrint": "11.5",
+      "disclaimer": ""
+    }
+  ],
+  "WSB": [
+    {
+      "date": "4/27/2024",
+      "away": "Scranton",
+      "home": "Moravian",
+      "awayML": "+320",
+      "homeML": "-390",
+      "awaySP": "+9.5",
+      "homeSP": "-9.5",
+      "aspreadOdds": "-110",
+      "hspreadOdds": "-110",
+      "ouOdds": "-110",
+      "ouLine": 12.5,
+      "ouPrint": "12.5",
+      "disclaimer": ""
+    },
+    {
+      "date": "4/27/2024",
+      "away": "Scranton",
+      "home": "Moravian",
+      "awayML": "+320",
+      "homeML": "-390",
+      "awaySP": "+9.5",
+      "homeSP": "-9.5",
+      "aspreadOdds": "-110",
+      "hspreadOdds": "-110",
+      "ouOdds": "-110",
+      "ouLine": 12.5,
+      "ouPrint": "12.5",
+      "disclaimer": ""
+    }
+  ]
+}
