@@ -2,13 +2,16 @@ import math
 from bs4 import BeautifulSoup
 import re
 import json
+import time
+import random
 from statistics import mean
 import datetime as dt
 import requests
 import accurating
 import subprocess
 
-betDict = {"track": [], "MLA": [], "WLA": [], "MBA": [], "WSB": []}
+betDict = {"school": [], "MLA": [], "WLA": [], "MBA": [], "WSB": []}
+uc = {"MLA": [], "WLA": [], "MBA": [], "WSB": []}
 
 def convertOdds(percent):
   if percent > 0.95:
@@ -106,7 +109,7 @@ def scrape_date_time_table(d, tup):
           else: 
             ti = float(t)
           athleteTimes[adding].append(ti)
-      dataDict["track"][tup[1]] = {"history": athleteTimes, "bets": {}}
+      dataDict["school"][tup[1]] = {"history": athleteTimes, "bets": {}}
     return dataDict
   else:
     print("Failed to retrieve page.")
@@ -116,12 +119,19 @@ def calcTimes(gender):
   file = "{}TRACK.json".format(gender)
   with open(file, 'r') as j:
      dataDict = json.loads(j.read())
-  for key in dataDict["track"]:
-    for event in dataDict["track"][key]["history"]:
-      if len(dataDict["track"][key]["history"][event]) >= 1:
+  for key in dataDict["school"]:
+    for event in dataDict["school"][key]["history"]:
+      if len(dataDict["school"][key]["history"][event]) >= 3:
         # estimate 
-        val = round(mean(dataDict["track"][key]["history"][event]),2)
+        div = 0
+        num = 0
+        for i in range(len(dataDict["school"][key]["history"][event])):
+          mult = (len(dataDict["school"][key]["history"][event]) - i)
+          div += (mult)
+          num += (dataDict["school"][key]["history"][event][i])*(mult)
+        val = num/div
         if "Relay" in event or "Meters" in event or "Mile" in event or "Steeplechase" in event or "Hurdles" in event: 
+          val = round(val*0.98,2)
           if val > 60:
             minutes = math.floor(val/60)
             seconds = round(val - (minutes*60),2)
@@ -131,16 +141,15 @@ def calcTimes(gender):
           else:
             ouPrint = str(val) + "s"
         else:
+          val = round(val*1.02,2)
           ouPrint = str(val) + "m"
-        betDict["track"].append({"away": key, "home": event, "awayML": 0, "homeML": 0, "awaySP": 0, "homeSP": 0, "aspreadOdds": 0, "hspreadOdds": 0, "ouOdds": "-110", "ouLine":round(mean(dataDict["track"][key]["history"][event]),2), "ouPrint": ouPrint, "disclaimer": "Bets void if "+key+", does not compete in this event."})
+        betDict["school"].append({"away": key, "home": event, "awayML": 0, "homeML": 0, "awaySP": 0, "homeSP": 0, "aspreadOdds": 0, "hspreadOdds": 0, "ouOdds": "-110", "ouLine":round(val,2), "ouPrint": ouPrint, "disclaimer": "Bets void if "+key+", does not compete in this event."})
 
 def upcoming(school, sport_code):
   # Start date
   date = dt.datetime.today()
-
   # End date
-  end_date = dt.datetime.today() + dt.timedelta(days=7)
-
+  end_date = dt.datetime.today() + dt.timedelta(days=3)
   # List to store the results
   games = []
   if sport_code == "MLA":
@@ -151,17 +160,24 @@ def upcoming(school, sport_code):
     codeNum = 18265
   elif sport_code == "MBA":
     codeNum = 18302
-    
+  headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "DNT": "1",  # Do Not Track Request Header
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1"  # Tells the server to redirect to HTTPS if the initial request is HTTP
+}
   while date < end_date:  
+      time.sleep(random.random())
+      session = requests.Session()
+      session.headers.update(headers)
       date += dt.timedelta(days=1)
       link = "https://stats.ncaa.org/season_divisions/{}/livestream_scoreboards?utf8=%E2%9C%93&season_division_id=&game_date={:0>2}%2F{:0>2}%2F{}&conference_id=0&tournament_id=&commit=Submit".format(
          codeNum, date.month, date.day, date.year
       )
 
-
-      headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) ApplseWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-}
       response = requests.get(link, headers=headers)
 
       if response.status_code == 200:
@@ -191,7 +207,10 @@ def upcoming(school, sport_code):
                   else:
                       teamB = " ".join(teamB.split(" ")[:-1])
                   if school in teamA or school in teamB:
-                    games.append((teamA, teamB, date.month, date.day, date.year))
+                    games.append((teamA, teamB, date.month, date.day, date.year, sport_code))
+                  if "Purdue" not in teamA and "Purdue" not in teamB:
+                    uc[sport_code].append((teamA, teamB, date.month, date.day, date.year))
+
       else:
           print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
   generateOdds(school, sport_code, games)
@@ -366,7 +385,8 @@ def generateOdds(school, code, games):
     if game[0] == school:
       opp = game[1]
     ouG = calcAvgGoals(code,school,opp)
-    ouG += calcAvgGoals(code,opp,school)
+    add = calcAvgGoals(code,opp,school)
+    ouG += add
     if home:
       h = "-"+str(spread)
       a = "+"+str(spread)
@@ -387,13 +407,13 @@ def generateOdds(school, code, games):
       else:
         ouG = round(emergencyPolicy(code, spread, game[0])) + 0.5
     ouPrint = str(ouG)
-    betDict[code].append({"date": str(game[2])+"/"+str(game[3])+"/"+str(game[4]), "away": game[0], "home": game[1], "awayML": convertOdds(accurating.win_prob(data[game[0]],data[game[1]])), "homeML": convertOdds(accurating.win_prob(data[game[1]],data[game[0]])), "awaySP": a, "homeSP": h, "aspreadOdds": aOdds, "hspreadOdds": hOdds, "ouOdds": "-110", "ouLine": ouG, "ouPrint": ouPrint, "disclaimer": ""})
+    betDict["school"].append({"sport": game[5], "date": str(game[2])+"/"+str(game[3])+"/"+str(game[4]), "away": game[0], "home": game[1], "awayML": convertOdds(accurating.win_prob(data[game[0]],data[game[1]])), "homeML": convertOdds(accurating.win_prob(data[game[1]],data[game[0]])), "awaySP": a, "homeSP": h, "aspreadOdds": aOdds, "hspreadOdds": hOdds, "ouOdds": "-110", "ouLine": ouG, "ouPrint": ouPrint, "disclaimer": ""})
 
 def track(school, rescrape):
   if rescrape:
     school = school.replace(" ","_")
     school = school.replace("&"," ")
-    d = {"track": {}}
+    d = {"school": {}}
     print("scraping mtrack")
     url = "https://www.tfrrs.org/teams/tf/PA_college_m_{}.html".format(school)
     tup = extract_links_between_keywords(url)
@@ -403,7 +423,7 @@ def track(school, rescrape):
     file = open(fname, "w") 
     json.dump(d, file) 
     file.close()
-    d = {"track": {}}
+    d = {"school": {}}
     print("scraping wtrack")
     url = "https://www.tfrrs.org/teams/tf/PA_college_w_{}.html".format(school)
     tup = extract_links_between_keywords(url)
@@ -428,8 +448,9 @@ def lax(school, rescrape):
     subprocess.check_output(['python3', 'rating.py', '--sport', 'MLA'])
     print("generating new ratings wlax")
     subprocess.check_output(['python3', 'rating.py', '--sport', 'WLA'])
-  print("Calculating odds for lax")
+  print("Calculating odds for mlax")
   upcoming(school, "MLA")
+  print("Calculating odds for wlax")
   upcoming(school, "WLA")
 
 def bball(school, rescrape):
@@ -450,21 +471,68 @@ def sball(school, rescrape):
   print("Calculating odds for softball")
   upcoming(school, "WSB")
   
+def getWeek():
+  getWeekOdds("MLA", uc["MLA"])
+  getWeekOdds("WLA", uc["WLA"])
+  getWeekOdds("MBA", uc["MBA"])
+  getWeekOdds("WSB", uc["WSB"])
+
+def getWeekOdds(code, games):
+  file = "accurating_{}.json".format(code)
+  with open(file) as f:
+      data = json.load(f)
+  spreadMap = calcSpreadProbs(code)
+  for game in games:
+    if accurating.win_prob(data[game[0]],data[game[1]]) >= 0.5:
+      favW = accurating.win_prob(data[game[0]],data[game[1]])
+      home = False
+    else:
+      favW = accurating.win_prob(data[game[1]],data[game[0]])
+      home = True
+    spread = calcSpread(code, spreadMap, favW)
+    ouG = calcAvgGoals(code,game[0],game[1])
+    add = calcAvgGoals(code,game[1],game[0])
+    ouG += add
+    if home:
+      h = "-"+str(spread)
+      a = "+"+str(spread)
+    else:
+      h = "+"+str(spread)
+      a = "-"+str(spread)
+    hOdds = "-110"
+    aOdds = "-110"
+    if spread == 0.5:
+      h += " (Pick / ML)"
+      a += " (Pick / ML)"
+      hOdds = convertOdds(accurating.win_prob(data[game[1]],data[game[0]]))
+      aOdds = convertOdds(accurating.win_prob(data[game[0]],data[game[1]]))
+    ouG = round(ouG) - 0.5
+    if spread > ouG:
+      if home:
+        ouG = round(emergencyPolicy(code, spread, game[1])) + 0.5
+      else:
+        ouG = round(emergencyPolicy(code, spread, game[0])) + 0.5
+    ouPrint = str(ouG)
+    betDict[code].append({"date": str(game[2])+"/"+str(game[3])+"/"+str(game[4]), "away": game[0], "home": game[1], "awayML": convertOdds(accurating.win_prob(data[game[0]],data[game[1]])), "homeML": convertOdds(accurating.win_prob(data[game[1]],data[game[0]])), "awaySP": a, "homeSP": h, "aspreadOdds": aOdds, "hspreadOdds": hOdds, "ouOdds": "-110", "ouLine": ouG, "ouPrint": ouPrint, "disclaimer": ""})
+
 
 def run(school, rescrapeTrack, rescrapeOthers):
-  track(school, rescrapeTrack)
-  school = school.split(" ")[0].strip()
-  lax(school, rescrapeOthers)
-  bball(school, rescrapeOthers)
-  sball(school, rescrapeOthers)
-  dName = "{}bets.json".format(school)
+  getWeek()
+  dName = "AllWith{}BetsPlayoffs.json".format(school)
   out = open(dName, "w") 
   json.dump(betDict, out, indent = 2) 
   
 
 def main():
+  print(convertOdds(.25))
+  print(convertOdds(.40))
+  print(convertOdds(.48))
+  print(convertOdds(.52))
+  print(convertOdds(.66))
+  print(convertOdds(.80))
+  exit()
   school = "Muhlenberg"
-  run(school, False, True)
+  run(school, False, False)
   print("done")
   
 main()
